@@ -122,7 +122,7 @@ public class ElementUtils
 	}
 	
 	//To check if a  webelement is selected or not
-	public boolean isSelected(WebElement wb)
+	public boolean isElementSelected(WebElement wb)
 	{
 		boolean isSelected=false;
 		if(isElementDisplayed(wb)) 
