@@ -1,0 +1,56 @@
+16:00:54.622 [main] INFO  DollarDays - States List is  displayed as expected
+16:00:56.605 [main] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments with shipping dock:"+companyNameAlert
+16:00:58.633 [main] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments without shipping dock:Company name/Organization name is required for commercial shipments
+16:01:02.608 [main] INFO  DollarDays - Alert is displayed for empty mandatory fields
+16:01:02.609 [main] INFO  DollarDays - Given name / first name (Required) is displayed for empty firstname
+16:01:02.609 [main] INFO  DollarDays - Surname / last name / family name (Required) is displayed for empty lastname
+16:01:02.610 [main] INFO  DollarDays - Address (Required) is displayed for empty streetaddress
+16:01:02.611 [main] INFO  DollarDays - Country (Required)is displayed for empty country
+16:01:02.611 [main] INFO  DollarDays - City (Required) is displayed for empty city
+16:01:02.611 [main] INFO  DollarDays - This field is required. is displayed for empty State
+16:01:02.612 [main] INFO  DollarDays - Phone Number (Required) is displayed for empty phoneno
+16:01:02.612 [main] INFO  DollarDays - Zip code (Required)is displayed for empty zipcode
+16:01:03.284 [main] DEBUG DollarDays - Firstname textbox contains22characters
+16:01:03.285 [main] INFO  DollarDays - Firstname textbox is accepting up to max 26 characters
+16:01:03.850 [main] DEBUG DollarDays - Lasttname textbox contains19characters
+16:01:03.851 [main] INFO  DollarDays - Lasttname textbox is accepting up to max 26 characters
+16:01:05.857 [main] DEBUG DollarDays - StreetAddress entered is:333b,Andover-dr
+16:01:05.858 [main] INFO  DollarDays - StreetAddress textbox is accepting both alphanumeric and specialchracters
+16:01:08.016 [main] DEBUG DollarDays - Apartment entered is:bldg@331
+16:01:08.017 [main] INFO  DollarDays - Apt textbox is accepting both alphanumeric and specialchracters
+16:01:09.327 [main] INFO  DollarDays - WebPage is closed
+08:52:10.082 [main] INFO  DollarDays - Firefox Driver is initialized
+08:52:10.173 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+08:52:21.992 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+08:52:21.992 [main] INFO  DollarDays - Deleting cookies
+08:52:22.026 [main] INFO  DollarDays - Maximize browser window 
+08:52:22.142 [main] INFO  DollarDays - Logging into Dollardays Website .
+08:52:22.142 [main] DEBUG DollarDays - Navigating to Login Page.
+08:52:36.878 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+08:52:37.570 [main] DEBUG DollarDays - Clicking Sign in Button
+08:53:03.568 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+08:53:03.882 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+08:53:03.950 [main] INFO  DollarDays - AddShipToAddress link is displayed
+08:53:04.250 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+08:53:05.184 [main] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+08:53:05.184 [main] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+08:53:08.438 [main] INFO  DollarDays - Account Overview link url verified successfully.
+08:53:14.774 [main] INFO  DollarDays - My Profile link url verified successfully.
+08:53:22.419 [main] INFO  DollarDays - My Address Book link url verified successfully.
+08:53:25.561 [main] INFO  DollarDays - My Wallet link url verified successfully.
+08:53:29.897 [main] INFO  DollarDays - Tax Exempt link url verified successfully.
+08:53:40.763 [main] INFO  DollarDays - My Favorites link url verified successfully.
+08:53:44.255 [main] INFO  DollarDays - Order History link url verified successfully.
+08:53:55.291 [main] INFO  DollarDays - User is able to log out successfully
+08:53:55.291 [main] INFO  DollarDays - Logging into Dollardays Website .
+08:53:55.292 [main] DEBUG DollarDays - Navigating to Login Page.
+08:54:09.686 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+08:54:10.343 [main] DEBUG DollarDays - Clicking Sign in Button
+08:54:34.504 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+08:54:48.304 [main] INFO  DollarDays - Added Address is  edited succesfully
+08:54:51.191 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+08:55:00.321 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Priya, lathaAmazon]
+08:55:00.346 [main] DEBUG DollarDays - Name fetched from excel is :[Priya, lathaAmazon]
+08:55:00.495 [main] DEBUG DollarDays - Address in Account overview page is: [100, 23001 Glenoaks Rd, Burbank, CA 91504]

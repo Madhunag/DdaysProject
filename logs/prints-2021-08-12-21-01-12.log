@@ -1,0 +1,40 @@
+20:58:55.918 [TestNG-tests-4] INFO  DollarDays - Tax Exempt link url verified successfully.
+20:58:55.933 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:58:56.436 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+20:58:56.652 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is starting. This Testcase checks for logging in functionality using valid and invalid username/password combinations
+20:58:56.690 [TestNG-tests-3] DEBUG DollarDays - Clicking  SigninIcon and then SignIn option from the DropDown List to navigate to Login Page
+20:58:59.775 [TestNG-tests-4] INFO  DollarDays - My Favorites link url verified successfully.
+20:58:59.775 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:59:00.145 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+20:59:02.319 [TestNG-tests-4] INFO  DollarDays - Order History link url verified successfully.
+20:59:02.335 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:59:02.736 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+20:59:13.209 [TestNG-tests-4] INFO  DollarDays - User is able to log out successfully
+20:59:13.209 [TestNG-tests-4] INFO  DollarDays - Logging into Dollardays Website .
+20:59:13.210 [TestNG-tests-4] DEBUG DollarDays - Navigating to Login Page.
+20:59:18.230 [TestNG-tests-4] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+20:59:18.715 [TestNG-tests-4] DEBUG DollarDays - Clicking Sign in Button
+20:59:32.511 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:59:32.881 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddNewShipToAddressLink Test is starting. TestCase verifies new address is ADDED correctly in the AddressBook page.
+20:59:44.135 [TestNG-tests-4] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+20:59:44.152 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddNewShipToAddressLink Test is passed
+20:59:45.645 [TestNG-tests-4] INFO  DollarDays - TC_verifyEditLink Test is starting. TestCase verifies saved address is EDITED correctly in the AddressBook page.
+20:59:52.788 [TestNG-tests-4] INFO  DollarDays - Added Address is  edited succesfully
+20:59:52.789 [TestNG-tests-4] INFO  DollarDays - TC_verifyEditLink Test is passed
+20:59:53.116 [TestNG-tests-4] INFO  DollarDays - TC_verifySetAsDefaultLink Test is starting. TestCase verifies address when setasdefault is saved correctly in the AddressBook page and AccountOverview Page
+20:59:56.146 [TestNG-tests-4] INFO  DollarDays - Address is set as default in AddressBook Page
+21:00:02.215 [TestNG-tests-4] INFO  DollarDays - Address is not saved in Account overview page correctly
+21:00:05.474 [TestNG-tests-4] ERROR DollarDays - TC_verifySetAsDefaultLink test failed.  java.lang.AssertionError: expected [true] but found [false]
+21:00:05.929 [TestNG-tests-4] INFO  DollarDays - TC_verifyDeleteLinkNoBtn Test is starting. TestCase verifies saved Address is not deleted in AddressBook Page with Confirmation NO button
+21:00:06.492 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Sign In' This WebElement is not present/displayed. 
+21:00:06.492 [TestNG-tests-3] DEBUG DollarDays - Clearing and Entering UserEmail and Password .
+21:00:08.297 [TestNG-tests-4] INFO  DollarDays - Address is not deleted on clicking no button in confirmation box
+21:00:08.311 [TestNG-tests-4] INFO  DollarDays - TC_verifyDeleteLinkNoBtn Test is passed
+21:00:08.566 [TestNG-tests-4] INFO  DollarDays - TC_verifyDeleteLinkYesBtn Test is starting. TestCase verifies saved Address is deleted in AddressBook Page with Confirmation YES button
+21:01:06.574 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginUsername' This WebElement is not present/displayed. 
+21:01:10.446 [TestNG-tests-4] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]' This WebElement is not present/displayed. 
+21:01:10.446 [TestNG-tests-4] INFO  DollarDays - DeleteLinkYesBtn is verified successfully.
+21:01:10.453 [TestNG-tests-4] INFO  DollarDays - TC_verifyDeleteLinkYesBtn Test is passed
+21:01:10.684 [TestNG-tests-4] INFO  DollarDays - TC_verifyCountryDropdownIsAList Test is starting. TestCase verifies Country is a dropdownlist
+21:01:11.701 [TestNG-tests-4] INFO  DollarDays - Country  is   verified as a DropdownList successfully.
+21:01:12.702 [TestNG-tests-4] INFO  DollarDays - TC_verifyCountryDropdownIsAList Test is passed

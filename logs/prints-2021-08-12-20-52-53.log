@@ -1,0 +1,39 @@
+20:50:59.266 [TestNG-tests-4] INFO  DollarDays - Order History link url verified successfully.
+20:50:59.266 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:50:59.751 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+20:51:02.827 [TestNG-tests-4] INFO  DollarDays - User is able to log out successfully
+20:51:02.827 [TestNG-tests-4] INFO  DollarDays - Logging into Dollardays Website .
+20:51:02.835 [TestNG-tests-4] DEBUG DollarDays - Navigating to Login Page.
+20:51:07.338 [TestNG-tests-4] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+20:51:07.970 [TestNG-tests-4] DEBUG DollarDays - Clicking Sign in Button
+20:51:13.700 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:51:14.054 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddNewShipToAddressLink Test is starting. TestCase verifies new address is ADDED correctly in the AddressBook page.
+20:51:23.250 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div/div/div/div[2]/div/div[1]/div/div/div[4]/button' This WebElement is not present/displayed. 
+20:51:23.250 [TestNG-tests-3] INFO  DollarDays - Checking if user has signed in to dollardays WebPage
+20:51:23.303 [TestNG-tests-3] INFO  DollarDays - User is not Signed in
+20:51:23.303 [TestNG-tests-3] ERROR DollarDays - TC_loginDDT test failed.  java.lang.AssertionError: Could not sign in to DollarDays with valid user user123@gmail.com and valid password pwd2. TestCase Failed. expected [true] but found [false]
+20:51:23.419 [TestNG-tests-4] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+20:51:23.419 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddNewShipToAddressLink Test is passed
+20:51:23.719 [TestNG-tests-4] INFO  DollarDays - TC_verifyEditLink Test is starting. TestCase verifies saved address is EDITED correctly in the AddressBook page.
+20:51:24.421 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is starting. This Testcase checks for logging in functionality using valid and invalid username/password combinations
+20:51:24.436 [TestNG-tests-3] DEBUG DollarDays - Clicking  SigninIcon and then SignIn option from the DropDown List to navigate to Login Page
+20:51:32.571 [TestNG-tests-4] INFO  DollarDays - Added Address is  edited succesfully
+20:51:32.571 [TestNG-tests-4] INFO  DollarDays - TC_verifyEditLink Test is passed
+20:51:36.170 [TestNG-tests-4] INFO  DollarDays - TC_verifySetAsDefaultLink Test is starting. TestCase verifies address when setasdefault is saved correctly in the AddressBook page and AccountOverview Page
+20:51:41.131 [TestNG-tests-4] INFO  DollarDays - Address is set as default in AddressBook Page
+20:51:42.303 [TestNG-tests-4] INFO  DollarDays - Address is not saved in Account overview page correctly
+20:51:43.748 [TestNG-tests-4] ERROR DollarDays - TC_verifySetAsDefaultLink test failed.  java.lang.AssertionError: expected [true] but found [false]
+20:51:44.140 [TestNG-tests-4] INFO  DollarDays - TC_verifyDeleteLinkNoBtn Test is starting. TestCase verifies saved Address is not deleted in AddressBook Page with Confirmation NO button
+20:51:46.641 [TestNG-tests-4] INFO  DollarDays - Address is not deleted on clicking no button in confirmation box
+20:51:46.656 [TestNG-tests-4] INFO  DollarDays - TC_verifyDeleteLinkNoBtn Test is passed
+20:51:46.979 [TestNG-tests-4] INFO  DollarDays - TC_verifyDeleteLinkYesBtn Test is starting. TestCase verifies saved Address is deleted in AddressBook Page with Confirmation YES button
+20:52:25.866 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Sign In' This WebElement is not present/displayed. 
+20:52:25.866 [TestNG-tests-3] DEBUG DollarDays - Clearing and Entering UserEmail and Password .
+20:52:49.256 [TestNG-tests-4] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]' This WebElement is not present/displayed. 
+20:52:49.256 [TestNG-tests-4] INFO  DollarDays - DeleteLinkYesBtn is verified successfully.
+20:52:49.260 [TestNG-tests-4] INFO  DollarDays - TC_verifyDeleteLinkYesBtn Test is passed
+20:52:49.488 [TestNG-tests-4] INFO  DollarDays - TC_verifyCountryDropdownIsAList Test is starting. TestCase verifies Country is a dropdownlist
+20:52:50.474 [TestNG-tests-4] INFO  DollarDays - Country  is   verified as a DropdownList successfully.
+20:52:51.476 [TestNG-tests-4] INFO  DollarDays - TC_verifyCountryDropdownIsAList Test is passed
+20:52:51.777 [TestNG-tests-4] INFO  DollarDays - TC_verifyCountryDropdownDefaultValue Test is starting. TestCase verifies Country's default value is United States of America.
+20:52:53.393 [TestNG-tests-4] INFO  DollarDays - United States of America is selected from dropdownlist by default

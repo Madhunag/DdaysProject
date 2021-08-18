@@ -1,0 +1,56 @@
+15:29:49.522 [main] INFO  DollarDays - City (Required) is displayed for empty city
+15:29:49.531 [main] INFO  DollarDays - This field is required. is displayed for empty State
+15:29:49.532 [main] INFO  DollarDays - Phone Number (Required) is displayed for empty phoneno
+15:29:49.532 [main] INFO  DollarDays - Zip code (Required)is displayed for empty zipcode
+15:29:50.327 [main] DEBUG DollarDays - Firstname textbox contains22characters
+15:29:50.328 [main] INFO  DollarDays - Firstname textbox is accepting up to max 26 characters
+15:29:51.035 [main] DEBUG DollarDays - Lasttname textbox contains19characters
+15:29:51.035 [main] INFO  DollarDays - Lasttname textbox is accepting up to max 26 characters
+15:29:53.088 [main] DEBUG DollarDays - StreetAddress entered is:333b,Andover-dr
+15:29:53.091 [main] INFO  DollarDays - StreetAddress textbox is accepting both alphanumeric and specialchracters
+15:29:55.054 [main] DEBUG DollarDays - Apartment entered is:bldg@331
+15:29:55.055 [main] INFO  DollarDays - Apt textbox is accepting both alphanumeric and specialchracters
+15:29:57.116 [main] INFO  DollarDays - WebPage is closed
+15:49:56.846 [main] INFO  DollarDays - Firefox Driver is initialized
+15:49:56.851 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+15:50:01.643 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+15:50:01.643 [main] INFO  DollarDays - Deleting cookies
+15:50:01.694 [main] INFO  DollarDays - Maximize browser window 
+15:50:01.794 [main] INFO  DollarDays - Logging into Dollardays Website .
+15:50:01.796 [main] DEBUG DollarDays - Navigating to Login Page.
+15:50:08.387 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+15:50:08.953 [main] DEBUG DollarDays - Clicking Sign in Button
+15:50:18.451 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+15:50:18.585 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+15:50:18.713 [main] INFO  DollarDays - AddShipToAddress link is displayed
+15:50:18.996 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+15:50:20.345 [main] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+15:50:20.346 [main] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+15:50:23.840 [main] INFO  DollarDays - Account Overview link url verified successfully.
+15:50:26.721 [main] INFO  DollarDays - My Profile link url verified successfully.
+15:50:29.476 [main] INFO  DollarDays - My Address Book link url verified successfully.
+15:50:31.856 [main] INFO  DollarDays - My Wallet link url verified successfully.
+15:50:35.472 [main] INFO  DollarDays - Tax Exempt link url verified successfully.
+15:50:38.262 [main] INFO  DollarDays - My Favorites link url verified successfully.
+15:50:41.141 [main] INFO  DollarDays - Order History link url verified successfully.
+15:50:45.389 [main] INFO  DollarDays - User is able to log out successfully
+15:50:45.390 [main] INFO  DollarDays - Logging into Dollardays Website .
+15:50:45.398 [main] DEBUG DollarDays - Navigating to Login Page.
+15:50:52.232 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+15:50:53.385 [main] DEBUG DollarDays - Clicking Sign in Button
+15:51:13.531 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+15:51:23.190 [main] INFO  DollarDays - Added Address is  edited succesfully
+15:51:26.436 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+15:51:28.343 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Priya, lathaAmazon]
+15:51:28.471 [main] DEBUG DollarDays - Name fetched from excel is :[Priya, lathaAmazon]
+15:51:28.574 [main] DEBUG DollarDays - Address in Account overview page is: [100, 23001 Glenoaks Rd, Burbank, CA 91504]
+15:51:28.634 [main] DEBUG DollarDays - Name fetched from excel is :[100, 23001 Glenoaks Rd, Burbank, CA 91504]
+15:52:28.763 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[2]/a' This WebElement is not present/displayed. 
+15:53:28.843 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='confirmationBox']/div/div' This WebElement is not present/displayed. 
+15:53:28.843 [main] INFO  DollarDays - Confirmation Box  is not displayed 
+15:54:35.483 [main] INFO  DollarDays - Firefox Driver is initialized
+15:54:35.490 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+15:54:40.394 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+15:54:40.394 [main] INFO  DollarDays - Deleting cookies

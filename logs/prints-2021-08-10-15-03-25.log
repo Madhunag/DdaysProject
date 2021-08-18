@@ -1,0 +1,49 @@
+14:31:53.013 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='divTxtShipAddr']/div/div[12]/div/ul/li[1]/label' This WebElement is not present/displayed. 
+14:32:54.638 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="ctl00_cphContent_rfvName"]' This WebElement is not present/displayed. 
+14:33:54.735 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='divTxtShipAddr']/div/div[12]/div/ul/li[2]/label' This WebElement is not present/displayed. 
+14:34:56.340 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="ctl00_cphContent_rfvName"]' This WebElement is not present/displayed. 
+14:35:56.444 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='ctl00_cphContent_ddlcountry']' This WebElement is not present/displayed. 
+14:36:17.733 [main] INFO  DollarDays - WebPage is closed
+14:50:56.530 [main] INFO  DollarDays - Firefox Driver is initialized
+14:50:56.534 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+14:51:02.013 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+14:51:02.013 [main] INFO  DollarDays - Deleting cookies
+14:51:02.070 [main] INFO  DollarDays - Maximize browser window 
+14:51:02.174 [main] INFO  DollarDays - Logging into Dollardays Website .
+14:51:02.175 [main] DEBUG DollarDays - Navigating to Login Page.
+14:51:08.254 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+14:51:08.966 [main] DEBUG DollarDays - Clicking Sign in Button
+14:51:19.737 [main] INFO  DollarDays - Logging into Dollardays Website .
+14:51:19.740 [main] DEBUG DollarDays - Navigating to Login Page.
+14:52:25.334 [main] INFO  DollarDays - Firefox Driver is initialized
+14:52:25.337 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+14:52:29.291 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+14:52:29.291 [main] INFO  DollarDays - Deleting cookies
+14:52:29.329 [main] INFO  DollarDays - Maximize browser window 
+14:52:29.452 [main] INFO  DollarDays - Logging into Dollardays Website .
+14:52:29.457 [main] DEBUG DollarDays - Navigating to Login Page.
+14:52:35.183 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+14:52:35.849 [main] DEBUG DollarDays - Clicking Sign in Button
+14:52:45.093 [main] INFO  DollarDays - Logging into Dollardays Website .
+14:52:45.096 [main] DEBUG DollarDays - Navigating to Login Page.
+14:53:45.288 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sign in']' This WebElement is not present/displayed. 
+14:54:49.672 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Sign In' This WebElement is not present/displayed. 
+14:54:49.691 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+14:57:28.167 [main] INFO  DollarDays - Firefox Driver is initialized
+14:57:28.172 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+14:57:32.333 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+14:57:32.333 [main] INFO  DollarDays - Deleting cookies
+14:57:32.386 [main] INFO  DollarDays - Maximize browser window 
+14:57:32.495 [main] INFO  DollarDays - Logging into Dollardays Website .
+14:57:32.496 [main] DEBUG DollarDays - Navigating to Login Page.
+14:57:38.833 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+14:57:39.420 [main] DEBUG DollarDays - Clicking Sign in Button
+14:57:47.988 [main] INFO  DollarDays - Logging into Dollardays Website .
+14:57:47.991 [main] DEBUG DollarDays - Navigating to Login Page.
+14:58:48.133 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sign in']' This WebElement is not present/displayed. 
+14:59:51.103 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Sign In' This WebElement is not present/displayed. 
+14:59:51.121 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+15:00:51.237 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginUsername' This WebElement is not present/displayed. 
+15:01:51.335 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginPassword' This WebElement is not present/displayed. 
+15:01:51.336 [main] DEBUG DollarDays - Clicking Sign in Button
+15:02:51.424 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div/div/div/div[2]/div/div[1]/div/div/div[4]/button' This WebElement is not present/displayed. 

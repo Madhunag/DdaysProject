@@ -1,0 +1,48 @@
+08:59:39.137 [main] INFO  DollarDays - Order History link url verified successfully.
+08:59:42.313 [main] INFO  DollarDays - User is able to log out successfully
+08:59:42.313 [main] INFO  DollarDays - Logging into Dollardays Website .
+08:59:42.314 [main] DEBUG DollarDays - Navigating to Login Page.
+08:59:54.879 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+08:59:55.455 [main] DEBUG DollarDays - Clicking Sign in Button
+09:00:18.700 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+09:00:31.010 [main] INFO  DollarDays - Added Address is  edited succesfully
+09:00:34.076 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+09:00:37.778 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Priya, lathaAmazon]
+09:00:38.662 [main] DEBUG DollarDays - Name fetched from excel is :[Priya, lathaAmazon]
+09:00:40.232 [main] DEBUG DollarDays - Address in Account overview page is: [100, 23001 Glenoaks Rd, Burbank, CA 91504]
+09:00:40.924 [main] DEBUG DollarDays - Name fetched from excel is :[100, 23001 Glenoaks Rd, Burbank, CA 91504]
+09:00:45.541 [main] INFO  DollarDays - Address is not deleted on clicking no button in confirmation box
+09:01:48.593 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]' This WebElement is not present/displayed. 
+09:01:48.595 [main] INFO  DollarDays - DeleteLinkYesBtn is verified successfully.
+09:01:51.623 [main] INFO  DollarDays - Country  is   verified as a DropdownList successfully.
+09:01:54.747 [main] INFO  DollarDays - United States of America is selected from dropdownlist by default
+09:01:55.518 [main] DEBUG DollarDays - [Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming]expstateslist is displayed
+09:01:55.519 [main] INFO  DollarDays - States List is  displayed as expected
+09:01:57.459 [main] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments with shipping dock:"+companyNameAlert
+09:01:59.360 [main] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments without shipping dock:Company name/Organization name is required for commercial shipments
+09:02:02.408 [main] INFO  DollarDays - Alert is displayed for empty mandatory fields
+09:02:02.408 [main] INFO  DollarDays - Given name / first name (Required) is displayed for empty firstname
+09:02:02.409 [main] INFO  DollarDays - Surname / last name / family name (Required) is displayed for empty lastname
+09:02:02.409 [main] INFO  DollarDays - Address (Required) is displayed for empty streetaddress
+09:02:02.409 [main] INFO  DollarDays - Country (Required)is displayed for empty country
+09:02:02.409 [main] INFO  DollarDays - City (Required) is displayed for empty city
+09:02:02.409 [main] INFO  DollarDays - This field is required. is displayed for empty State
+09:02:02.409 [main] INFO  DollarDays - Phone Number (Required) is displayed for empty phoneno
+09:02:02.409 [main] INFO  DollarDays - Zip code (Required)is displayed for empty zipcode
+09:02:02.814 [main] DEBUG DollarDays - Firstname textbox contains22characters
+09:02:02.814 [main] INFO  DollarDays - Firstname textbox is accepting up to max 26 characters
+09:02:03.237 [main] DEBUG DollarDays - Lasttname textbox contains19characters
+09:02:03.237 [main] INFO  DollarDays - Lasttname textbox is accepting up to max 26 characters
+09:02:05.031 [main] DEBUG DollarDays - StreetAddress entered is:333b,Andover-dr
+09:02:05.031 [main] INFO  DollarDays - StreetAddress textbox is accepting both alphanumeric and specialchracters
+09:02:06.773 [main] DEBUG DollarDays - Apartment entered is:bldg@331
+09:02:06.773 [main] INFO  DollarDays - Apt textbox is accepting both alphanumeric and specialchracters
+09:02:08.160 [main] INFO  DollarDays - WebPage is closed
+08:46:53.494 [main] INFO  DollarDays - Firefox Driver is initialized
+08:46:53.500 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+08:46:59.334 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+08:46:59.334 [main] INFO  DollarDays - Deleting cookies
+08:46:59.355 [main] INFO  DollarDays - Maximize browser window 
+08:46:59.446 [main] INFO  DollarDays - Logging into Dollardays Website .
+08:46:59.448 [main] DEBUG DollarDays - Navigating to Login Page.
+08:47:04.184 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password

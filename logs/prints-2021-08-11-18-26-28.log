@@ -1,0 +1,64 @@
+17:48:26.309 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+17:48:26.841 [main] DEBUG DollarDays - Clicking Sign in Button
+17:48:34.384 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+17:48:34.467 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+17:48:55.109 [main] INFO  DollarDays - Logging into Dollardays Website .
+17:48:55.111 [main] DEBUG DollarDays - Navigating to Login Page.
+17:48:59.184 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+17:48:59.660 [main] DEBUG DollarDays - Clicking Sign in Button
+17:49:54.886 [main] INFO  DollarDays - WebPage is closed
+17:56:57.797 [main] INFO  DollarDays - Firefox Driver is initialized
+17:56:57.803 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+17:57:00.766 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+17:57:00.766 [main] INFO  DollarDays - Deleting cookies
+17:57:00.819 [main] INFO  DollarDays - Maximize browser window 
+17:57:00.907 [main] INFO  DollarDays - Logging into Dollardays Website .
+17:57:00.909 [main] DEBUG DollarDays - Navigating to Login Page.
+17:57:07.879 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+17:57:08.407 [main] DEBUG DollarDays - Clicking Sign in Button
+17:57:15.148 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+17:57:15.228 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+17:57:41.022 [main] INFO  DollarDays - Logging into Dollardays Website .
+17:57:41.024 [main] DEBUG DollarDays - Navigating to Login Page.
+17:57:45.090 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+17:57:45.610 [main] DEBUG DollarDays - Clicking Sign in Button
+17:58:43.117 [main] INFO  DollarDays - WebPage is closed
+18:07:55.925 [main] INFO  DollarDays - Firefox Driver is initialized
+18:07:55.932 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+18:07:58.379 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+18:07:58.380 [main] INFO  DollarDays - Deleting cookies
+18:07:58.444 [main] INFO  DollarDays - Maximize browser window 
+18:07:58.566 [main] INFO  DollarDays - Logging into Dollardays Website .
+18:07:58.567 [main] DEBUG DollarDays - Navigating to Login Page.
+18:08:04.629 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+18:08:05.213 [main] DEBUG DollarDays - Clicking Sign in Button
+18:08:13.004 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+18:08:13.064 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+18:10:26.207 [main] INFO  DollarDays - Firefox Driver is initialized
+18:10:26.212 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+18:10:30.162 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+18:10:30.162 [main] INFO  DollarDays - Deleting cookies
+18:10:30.198 [main] INFO  DollarDays - Maximize browser window 
+18:10:30.279 [main] INFO  DollarDays - Logging into Dollardays Website .
+18:10:30.280 [main] DEBUG DollarDays - Navigating to Login Page.
+18:10:36.430 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+18:10:36.895 [main] DEBUG DollarDays - Clicking Sign in Button
+18:11:41.054 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Address Book' This WebElement is not present/displayed. 
+18:12:41.920 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: /html/body/form/div[5]/div[1]/section/div/div[1]/h2[1]' This WebElement is not present/displayed. 
+18:12:56.697 [main] INFO  DollarDays - Firefox Driver is initialized
+18:12:56.703 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+18:13:00.183 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+18:13:00.183 [main] INFO  DollarDays - Deleting cookies
+18:13:00.221 [main] INFO  DollarDays - Maximize browser window 
+18:13:00.314 [main] INFO  DollarDays - Logging into Dollardays Website .
+18:13:00.316 [main] DEBUG DollarDays - Navigating to Login Page.
+18:13:06.474 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+18:13:07.059 [main] DEBUG DollarDays - Clicking Sign in Button
+18:13:13.707 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+18:13:13.838 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+18:13:33.430 [main] INFO  DollarDays - Logging into Dollardays Website .
+18:13:33.431 [main] DEBUG DollarDays - Navigating to Login Page.
+18:13:37.526 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+18:13:38.071 [main] DEBUG DollarDays - Clicking Sign in Button
+18:14:34.707 [main] INFO  DollarDays - WebPage is closed
+18:26:28.198 [main] INFO  DollarDays - Firefox Driver is initialized

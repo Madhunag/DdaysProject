@@ -1,0 +1,52 @@
+15:57:21.816 [main] INFO  DollarDays - Zip code (Required)is displayed for empty zipcode
+15:57:22.515 [main] DEBUG DollarDays - Firstname textbox contains22characters
+15:57:22.515 [main] INFO  DollarDays - Firstname textbox is accepting up to max 26 characters
+15:57:23.204 [main] DEBUG DollarDays - Lasttname textbox contains19characters
+15:57:23.205 [main] INFO  DollarDays - Lasttname textbox is accepting up to max 26 characters
+15:57:25.209 [main] DEBUG DollarDays - StreetAddress entered is:333b,Andover-dr
+15:57:25.210 [main] INFO  DollarDays - StreetAddress textbox is accepting both alphanumeric and specialchracters
+15:57:27.163 [main] DEBUG DollarDays - Apartment entered is:bldg@331
+15:57:27.164 [main] INFO  DollarDays - Apt textbox is accepting both alphanumeric and specialchracters
+15:57:28.758 [main] INFO  DollarDays - WebPage is closed
+15:58:09.663 [main] INFO  DollarDays - Firefox Driver is initialized
+15:58:09.668 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+15:58:14.508 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+15:58:14.508 [main] INFO  DollarDays - Deleting cookies
+15:58:14.552 [main] INFO  DollarDays - Maximize browser window 
+15:58:14.681 [main] INFO  DollarDays - Logging into Dollardays Website .
+15:58:14.685 [main] DEBUG DollarDays - Navigating to Login Page.
+15:58:20.977 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+15:58:21.675 [main] DEBUG DollarDays - Clicking Sign in Button
+15:58:31.962 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+15:58:32.073 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+15:58:32.195 [main] INFO  DollarDays - AddShipToAddress link is displayed
+15:58:32.404 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+15:58:33.604 [main] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+15:58:33.604 [main] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+15:58:35.321 [main] INFO  DollarDays - Account Overview link url verified successfully.
+15:58:39.160 [main] INFO  DollarDays - My Profile link url verified successfully.
+15:58:42.671 [main] INFO  DollarDays - My Address Book link url verified successfully.
+15:58:44.905 [main] INFO  DollarDays - My Wallet link url verified successfully.
+15:58:47.644 [main] INFO  DollarDays - Tax Exempt link url verified successfully.
+15:58:50.839 [main] INFO  DollarDays - My Favorites link url verified successfully.
+15:58:54.443 [main] INFO  DollarDays - Order History link url verified successfully.
+15:58:58.109 [main] INFO  DollarDays - User is able to log out successfully
+15:58:58.110 [main] INFO  DollarDays - Logging into Dollardays Website .
+15:58:58.115 [main] DEBUG DollarDays - Navigating to Login Page.
+15:59:04.758 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+15:59:05.479 [main] DEBUG DollarDays - Clicking Sign in Button
+15:59:24.566 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+15:59:34.006 [main] INFO  DollarDays - Added Address is  edited succesfully
+15:59:38.474 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+15:59:41.732 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Priya, lathaAmazon]
+15:59:41.788 [main] DEBUG DollarDays - Name fetched from excel is :[Priya, lathaAmazon]
+15:59:41.870 [main] DEBUG DollarDays - Address in Account overview page is: [100, 23001 Glenoaks Rd, Burbank, CA 91504]
+15:59:41.935 [main] DEBUG DollarDays - Name fetched from excel is :[100, 23001 Glenoaks Rd, Burbank, CA 91504]
+15:59:46.893 [main] INFO  DollarDays - Address is not deleted on clicking no button in confirmation box
+16:00:49.327 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]' This WebElement is not present/displayed. 
+16:00:49.328 [main] INFO  DollarDays - DeleteLinkYesBtn is verified successfully.
+16:00:50.594 [main] INFO  DollarDays - Country  is   verified as a DropdownList successfully.
+16:00:53.297 [main] INFO  DollarDays - United States of America is selected from dropdownlist by default
+16:00:54.621 [main] DEBUG DollarDays - [Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming]expstateslist is displayed

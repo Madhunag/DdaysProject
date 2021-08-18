@@ -1,0 +1,9 @@
+18:04:40.531 [main] INFO  DollarDays - Chrome Driver is initialized
+18:04:40.555 [main] INFO  DollarDays - Opening the chrome browser and Navigating to Home page of Dollardays
+18:04:43.552 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+18:04:43.553 [main] INFO  DollarDays - Deleting cookies
+18:04:43.830 [main] INFO  DollarDays - Maximize browser window 
+18:04:44.224 [main] INFO  DollarDays - Logging into Dollardays Website .
+18:04:44.225 [main] DEBUG DollarDays - Navigating to Login Page.
+18:04:46.420 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+18:04:47.963 [main] DEBUG DollarDays - Clicking Sign in Button

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+<Properties>
+	<Property name= "basePath">./logs </Property> <!-- Sets the basePath property with the folder path of logs -->
+</Properties>
+
+<!-- filePattern specifies the name pattern of log output file-->
+<Appenders>
+      <RollingFile name="File" fileName="${basePath}/prints.log" filePattern="${basePath}/prints-%d{yyyy-MM-dd}-%d{HH-mm-ss}.log">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+      <SizeBasedTriggeringPolicy size="5000" />   
+      <!-- size specifies the max size of each log output file Every time file reaches the size of 500 kb, a new log file is created and earliest logs will be stored in files named based on the filepattern attribute.
+           So there may be multiple output log files.The one without timestamp will have the latest logs-->
+      </RollingFile>
+       <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+      </Console>
+      
+</Appenders>
+
+  <Loggers>
+    <Root level="trace">  <!--Use level="trace" to get all logs msgs including debug msgs .Use level="info" to avoid debug log msgs  -->
+      <AppenderRef ref="File"/>
+    </Root>
+  </Loggers>
+  
+</Configuration>

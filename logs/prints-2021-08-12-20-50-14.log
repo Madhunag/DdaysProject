@@ -1,0 +1,40 @@
+20:49:25.727 [TestNG-tests-2] DEBUG DollarDays - Clicking  SigninIcon and then SignIn option from the DropDown List to navigate to Login Page
+20:49:33.340 [TestNG-tests-1] INFO  DollarDays - Logging into Dollardays Website .
+20:49:33.341 [TestNG-tests-1] DEBUG DollarDays - Navigating to Login Page.
+20:49:39.401 [TestNG-tests-4] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+20:49:39.790 [TestNG-tests-4] DEBUG DollarDays - Clicking Sign in Button
+20:49:49.484 [TestNG-tests-2] INFO  DollarDays - Verified loginpage title successfully
+20:49:49.484 [TestNG-tests-2] INFO  DollarDays - TC_verifyLoginPageTitle Test is passed
+20:49:50.231 [TestNG-tests-2] INFO  DollarDays - TC_verifyLoginPageMandatoryfields Test is starting.  TestCase verifies Email Address and Password fields are mandatory in LoginPage.
+20:49:50.473 [TestNG-tests-2] INFO  DollarDays - TC_verifyLoginPageMandatoryfields Test is passed
+20:49:50.927 [TestNG-tests-2] INFO  DollarDays - TC_verifyForgotEmailPasswordLink Test is starting.  TestCase verifies the navigation of Forgot password link .
+20:49:50.927 [TestNG-tests-2] DEBUG DollarDays - Clicking  the link - Forgot your Email or Password in Login Page
+20:49:51.048 [TestNG-tests-1] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+20:49:51.886 [TestNG-tests-1] DEBUG DollarDays - Clicking Sign in Button
+20:49:52.087 [TestNG-tests-1] INFO  DollarDays - Checking if user has signed in to dollardays WebPage
+20:49:53.074 [TestNG-tests-3] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+20:49:53.074 [TestNG-tests-3] INFO  DollarDays - Deleting cookies
+20:49:53.097 [TestNG-tests-3] INFO  DollarDays - Maximize browser window 
+20:49:53.145 [TestNG-tests-3] INFO  DollarDays - Fetching Login data credentials from Excel File.
+20:49:53.198 [TestNG-tests-2] INFO  DollarDays - Verified Forgot Your Email or Password Link successfully
+20:49:53.198 [TestNG-tests-2] INFO  DollarDays - TC_verifyForgotEmailPasswordLink Test is passed
+20:49:53.853 [TestNG-tests-2] INFO  DollarDays - TC_verifyCreateAccountButton Test is starting.  TestCase verifies functionality of CreateAccount button .
+20:49:55.296 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is starting. This Testcase checks for logging in functionality using valid and invalid username/password combinations
+20:49:55.326 [TestNG-tests-3] DEBUG DollarDays - Clicking  SigninIcon and then SignIn option from the DropDown List to navigate to Login Page
+20:49:56.454 [TestNG-tests-1] INFO  DollarDays - User is not Signed in
+20:49:56.456 [TestNG-tests-1] ERROR DollarDays - TC_Login test failed.  java.lang.AssertionError: Could not Login to Dollardays.Testcase failed. expected [true] but found [false]
+20:49:56.789 [TestNG-tests-2] DEBUG DollarDays - Clicking  the Create Account button in Login Page
+20:50:05.702 [TestNG-tests-2] INFO  DollarDays - Verified the functionality of CreateAccount button 
+20:50:05.710 [TestNG-tests-2] INFO  DollarDays - TC_verifyCreateAccountButton Test is passed
+20:50:06.304 [TestNG-tests-2] INFO  DollarDays - TC_logintoDD Test is starting. Testcase checks if the user is able to login successfully with valid username/password combination
+20:50:06.304 [TestNG-tests-2] DEBUG DollarDays - Refreshing HomePage /Navigating to HomePage
+20:50:07.106 [TestNG-tests-1] WARN  DollarDays - TC_verifyUserHomePageTitle Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_verifyUserHomePageTitle()[pri:1, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+20:50:07.107 [TestNG-tests-1] WARN  DollarDays - TC_CheckUserDropDownList Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_CheckUserDropDownList()[pri:2, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+20:50:07.113 [TestNG-tests-1] WARN  DollarDays - TC_verifyUserDropDownUrl Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_verifyUserDropDownUrl(java.lang.String)[pri:3, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+20:50:09.259 [TestNG-tests-2] DEBUG DollarDays - Clicking  SigninIcon and then SignIn option from the DropDown List to navigate to Login Page
+20:50:12.103 [TestNG-tests-1] INFO  DollarDays - WebPage is closed.
+20:50:13.250 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookPageTitle Test is starting. TestCase verifies AddressBookPage Title is displayed correctly.
+20:50:13.369 [TestNG-tests-4] INFO  DollarDays - Verified AddressBookPage Title successfully.
+20:50:13.370 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookPageTitle Test is passed
+20:50:14.118 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookPageHeading Test is starting. TestCase verifies AddressBookPage Header is displayed correctly.
+20:50:14.196 [TestNG-tests-4] INFO  DollarDays - Verified AddressBookPage Heading successfully.

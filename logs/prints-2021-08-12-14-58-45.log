@@ -1,0 +1,56 @@
+13:13:01.129 [main] INFO  DollarDays - WebPage is closed
+13:38:33.493 [main] INFO  DollarDays - Firefox Driver is initialized
+13:38:33.499 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+13:38:36.988 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+13:38:36.988 [main] INFO  DollarDays - Deleting cookies
+13:38:37.004 [main] INFO  DollarDays - Maximize browser window 
+13:38:37.094 [main] INFO  DollarDays - Logging into Dollardays Website .
+13:38:37.094 [main] DEBUG DollarDays - Navigating to Login Page.
+13:38:42.175 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+13:38:42.632 [main] DEBUG DollarDays - Clicking Sign in Button
+13:39:45.222 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Address Book' This WebElement is not present/displayed. 
+13:40:46.420 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: /html/body/form/div[5]/div[1]/section/div/div[1]/h2[1]' This WebElement is not present/displayed. 
+13:41:25.599 [main] INFO  DollarDays - Firefox Driver is initialized
+13:41:25.605 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+13:41:29.533 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+13:41:29.533 [main] INFO  DollarDays - Deleting cookies
+13:41:29.564 [main] INFO  DollarDays - Maximize browser window 
+13:41:29.656 [main] INFO  DollarDays - Logging into Dollardays Website .
+13:41:29.657 [main] DEBUG DollarDays - Navigating to Login Page.
+13:41:35.019 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+13:41:35.532 [main] DEBUG DollarDays - Clicking Sign in Button
+13:42:38.664 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Address Book' This WebElement is not present/displayed. 
+13:42:57.514 [main] INFO  DollarDays - Firefox Driver is initialized
+13:42:57.518 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+13:43:01.055 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+13:43:01.055 [main] INFO  DollarDays - Deleting cookies
+13:43:01.097 [main] INFO  DollarDays - Maximize browser window 
+13:43:01.191 [main] INFO  DollarDays - Logging into Dollardays Website .
+13:43:01.192 [main] DEBUG DollarDays - Navigating to Login Page.
+13:43:12.228 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+13:43:12.713 [main] DEBUG DollarDays - Clicking Sign in Button
+13:43:19.717 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+13:43:19.795 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+13:43:19.843 [main] INFO  DollarDays - AddShipToAddress link is displayed
+13:43:19.975 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+13:43:20.425 [main] INFO  DollarDays - Expected and Actual AddressBookLeftPaneLinkTexts are matching
+13:43:45.223 [main] INFO  DollarDays - Logging into Dollardays Website .
+13:43:45.231 [main] DEBUG DollarDays - Navigating to Login Page.
+13:43:49.221 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+13:43:49.717 [main] DEBUG DollarDays - Clicking Sign in Button
+13:45:22.319 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]' This WebElement is not present/displayed. 
+13:46:30.899 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='ctl00_cphContent_ddlcountry-error']' This WebElement is not present/displayed. 
+13:47:31.034 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="ctl00_cphContent_txtshipstate-error"]' This WebElement is not present/displayed. 
+13:47:36.518 [main] INFO  DollarDays - WebPage is closed
+14:58:26.999 [main] INFO  DollarDays - Firefox Driver is initialized
+14:58:27.015 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+14:58:30.858 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+14:58:30.859 [main] INFO  DollarDays - Deleting cookies
+14:58:30.895 [main] INFO  DollarDays - Maximize browser window 
+14:58:30.970 [main] INFO  DollarDays - Logging into Dollardays Website .
+14:58:30.970 [main] DEBUG DollarDays - Navigating to Login Page.
+14:58:37.383 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+14:58:37.748 [main] DEBUG DollarDays - Clicking Sign in Button
+14:58:45.749 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+14:58:45.799 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.

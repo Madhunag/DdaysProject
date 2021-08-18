@@ -1,0 +1,42 @@
+16:12:55.768 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+16:12:57.960 [TestNG-tests-1] INFO  DollarDays - Account Overview link url verified successfully.
+16:12:57.968 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+16:12:58.290 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+16:13:01.461 [TestNG-tests-1] INFO  DollarDays - My Profile link url verified successfully.
+16:13:01.464 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+16:13:01.856 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+16:13:04.076 [TestNG-tests-1] INFO  DollarDays - My Address Book link url verified successfully.
+16:13:04.081 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+16:13:04.409 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+16:13:05.977 [TestNG-tests-1] INFO  DollarDays - My Wallet link url verified successfully.
+16:13:05.982 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+16:13:06.372 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+16:13:11.282 [TestNG-tests-1] INFO  DollarDays - Tax Exempt link url verified successfully.
+16:13:11.284 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+16:13:11.539 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+16:13:16.150 [TestNG-tests-1] INFO  DollarDays - My Favorites link url verified successfully.
+16:13:16.152 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+16:13:16.450 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+16:13:18.607 [TestNG-tests-1] INFO  DollarDays - Order History link url verified successfully.
+16:13:18.609 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+16:13:19.041 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+16:13:23.941 [TestNG-tests-1] INFO  DollarDays - User is able to log out successfully
+16:13:23.941 [TestNG-tests-1] INFO  DollarDays - Logging into Dollardays Website .
+16:13:23.942 [TestNG-tests-1] DEBUG DollarDays - Navigating to Login Page.
+16:13:27.802 [TestNG-tests-1] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+16:13:28.498 [TestNG-tests-1] DEBUG DollarDays - Clicking Sign in Button
+16:13:34.664 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+16:13:34.980 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddNewShipToAddressLink Test is starting. TestCase verifies new address is ADDED correctly in the AddressBook page.
+16:13:45.145 [TestNG-tests-1] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+16:13:45.149 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddNewShipToAddressLink Test is passed
+16:13:45.425 [TestNG-tests-1] INFO  DollarDays - TC_verifyEditLink Test is starting. TestCase verifies saved address is EDITED correctly in the AddressBook page.
+16:13:52.842 [TestNG-tests-1] INFO  DollarDays - Added Address is  edited succesfully
+16:13:52.842 [TestNG-tests-1] INFO  DollarDays - TC_verifyEditLink Test is passed
+16:13:53.118 [TestNG-tests-1] INFO  DollarDays - TC_verifySetAsDefaultLink Test is starting. TestCase verifies address when setasdefault is saved correctly in the AddressBook page and AccountOverview Page
+16:13:56.029 [TestNG-tests-1] INFO  DollarDays - Address is set as default in AddressBook Page
+16:13:57.267 [TestNG-tests-1] INFO  DollarDays - Address is not saved in Account overview page correctly
+16:13:58.854 [TestNG-tests-1] ERROR DollarDays - TC_verifySetAsDefaultLink test failed.  java.lang.AssertionError: expected [true] but found [false]
+16:13:59.244 [TestNG-tests-1] INFO  DollarDays - TC_verifyDeleteLinkNoBtn Test is starting. TestCase verifies saved Address is not deleted in AddressBook Page with Confirmation NO button
+16:14:01.677 [TestNG-tests-1] INFO  DollarDays - Address is not deleted on clicking no button in confirmation box
+16:14:01.678 [TestNG-tests-1] INFO  DollarDays - TC_verifyDeleteLinkNoBtn Test is passed
+16:14:01.928 [TestNG-tests-1] INFO  DollarDays - TC_verifyDeleteLinkYesBtn Test is starting. TestCase verifies saved Address is deleted in AddressBook Page with Confirmation YES button

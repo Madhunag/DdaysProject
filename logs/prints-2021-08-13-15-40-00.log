@@ -1,0 +1,39 @@
+15:39:14.704 [TestNG-tests-2] INFO  DollarDays - TC_verifyCreateAccountButton Test is starting.  TestCase verifies functionality of CreateAccount button .
+15:39:16.640 [TestNG-tests-1] INFO  DollarDays - User is not Signed in
+15:39:16.641 [TestNG-tests-1] ERROR DollarDays - TC_Login test failed.  java.lang.AssertionError: Could not Login to Dollardays.Testcase failed. expected [true] but found [false]
+15:39:16.855 [TestNG-tests-4] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+15:39:17.088 [TestNG-tests-2] DEBUG DollarDays - Clicking  the Create Account button in Login Page
+15:39:17.385 [TestNG-tests-4] DEBUG DollarDays - Clicking Sign in Button
+15:39:26.435 [TestNG-tests-2] INFO  DollarDays - Verified the functionality of CreateAccount button 
+15:39:26.436 [TestNG-tests-2] INFO  DollarDays - TC_verifyCreateAccountButton Test is passed
+15:39:26.971 [TestNG-tests-2] INFO  DollarDays - TC_logintoDD Test is starting. Testcase checks if the user is able to login successfully with valid username/password combination
+15:39:26.971 [TestNG-tests-2] DEBUG DollarDays - Refreshing HomePage /Navigating to HomePage
+15:39:27.916 [TestNG-tests-1] WARN  DollarDays - TC_verifyUserHomePageTitle Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_verifyUserHomePageTitle()[pri:1, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+15:39:27.918 [TestNG-tests-1] WARN  DollarDays - TC_CheckUserDropDownList Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_CheckUserDropDownList()[pri:2, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+15:39:27.920 [TestNG-tests-1] WARN  DollarDays - TC_verifyUserDropDownUrl Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_verifyUserDropDownUrl(java.lang.String)[pri:3, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+15:39:28.772 [TestNG-tests-2] DEBUG DollarDays - Clicking  SigninIcon and then SignIn option from the DropDown List to navigate to Login Page
+15:39:32.064 [TestNG-tests-1] INFO  DollarDays - WebPage is closed.
+15:39:44.537 [TestNG-tests-2] INFO  DollarDays - Entering valid credentials and clicking Signin Button.
+15:39:45.516 [TestNG-tests-2] INFO  DollarDays - Checking if user has signed in to dollardays WebPage
+15:39:46.704 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookPageTitle Test is starting. TestCase verifies AddressBookPage Title is displayed correctly.
+15:39:46.807 [TestNG-tests-4] INFO  DollarDays - Verified AddressBookPage Title successfully.
+15:39:46.808 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookPageTitle Test is passed
+15:39:47.515 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookPageHeading Test is starting. TestCase verifies AddressBookPage Header is displayed correctly.
+15:39:47.659 [TestNG-tests-4] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+15:39:47.660 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookPageHeading Test is passed
+15:39:48.383 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddNewShipToAddressLinkDisplay Test is starting. TestCase verifies Add A NEW SHIP-TO ADDRESS Link is displayed.
+15:39:48.451 [TestNG-tests-4] INFO  DollarDays - AddShipToAddress link is displayed
+15:39:48.452 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddNewShipToAddressLinkDisplay Test is passed
+15:39:48.840 [TestNG-tests-2] INFO  DollarDays - User is not Signed in
+15:39:48.841 [TestNG-tests-2] ERROR DollarDays - TC_logintoDD test failed.  java.lang.AssertionError: Could not Login to Dollardays with valid credentials.  Testcase failed expected [true] but found [false]
+15:39:49.100 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLeftPanelLinksDisplay Test is starting. TestCase verifies AddressBook LeftPanel LinkTexts are displayed correctly.
+15:39:49.292 [TestNG-tests-4] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+15:39:49.339 [TestNG-tests-4] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+15:39:49.339 [TestNG-tests-4] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+15:39:49.346 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLeftPanelLinksDisplay Test is passed
+15:39:50.110 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+15:39:58.111 [TestNG-tests-4] INFO  DollarDays - Account Overview link url verified successfully.
+15:39:58.112 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+15:39:59.028 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.

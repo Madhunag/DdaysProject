@@ -1,0 +1,60 @@
+12:17:11.455 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+12:17:13.962 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+12:17:15.687 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Sushmitha, sen7hills]
+12:17:15.852 [main] DEBUG DollarDays - Name fetched from excel is :[Sushmitha, sen7hills]
+12:17:15.924 [main] DEBUG DollarDays - Address in Account overview page is: [110, 25501 Shaker Blvd, Beachwood, OH 44122]
+12:17:15.970 [main] DEBUG DollarDays - Name fetched from excel is :[110, 25501 Shaker Blvd, Beachwood, OH 44122]
+12:17:15.970 [main] INFO  DollarDays - Name and Address is not saved in Account overview page correctly
+12:17:18.427 [main] INFO  DollarDays - WebPage is closed
+12:20:45.986 [main] INFO  DollarDays - Firefox Driver is initialized
+12:20:45.995 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+12:20:49.816 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+12:20:49.816 [main] INFO  DollarDays - Deleting cookies
+12:20:49.866 [main] INFO  DollarDays - Maximize browser window 
+12:20:49.938 [main] INFO  DollarDays - Logging into Dollardays Website .
+12:20:49.940 [main] DEBUG DollarDays - Navigating to Login Page.
+12:20:55.000 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+12:20:55.459 [main] DEBUG DollarDays - Clicking Sign in Button
+12:21:17.800 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+12:21:17.900 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+12:21:17.931 [main] INFO  DollarDays - AddShipToAddress link is displayed
+12:21:18.100 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+12:21:18.500 [main] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+12:21:18.500 [main] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+12:21:20.090 [main] INFO  DollarDays - Account Overview link url verified successfully.
+12:21:32.414 [main] INFO  DollarDays - My Profile link url verified successfully.
+12:21:37.000 [main] INFO  DollarDays - My Address Book link url verified successfully.
+12:21:38.697 [main] INFO  DollarDays - My Wallet link url verified successfully.
+12:21:41.073 [main] INFO  DollarDays - Tax Exempt link url verified successfully.
+12:21:44.455 [main] INFO  DollarDays - My Favorites link url verified successfully.
+12:21:47.217 [main] INFO  DollarDays - Order History link url verified successfully.
+12:21:51.211 [main] INFO  DollarDays - User is able to log out successfully
+12:21:51.212 [main] INFO  DollarDays - Logging into Dollardays Website .
+12:21:51.212 [main] DEBUG DollarDays - Navigating to Login Page.
+12:21:55.489 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+12:21:56.024 [main] DEBUG DollarDays - Clicking Sign in Button
+12:22:17.964 [main] INFO  DollarDays - Country  is   verified as a DropdownList successfully.
+12:22:22.605 [main] INFO  DollarDays - WebPage is closed
+12:22:42.477 [main] INFO  DollarDays - Firefox Driver is initialized
+12:22:42.482 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+12:22:48.508 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+12:22:48.509 [main] INFO  DollarDays - Deleting cookies
+12:22:49.024 [main] INFO  DollarDays - Maximize browser window 
+12:22:50.088 [main] INFO  DollarDays - Logging into Dollardays Website .
+12:22:50.098 [main] DEBUG DollarDays - Navigating to Login Page.
+12:22:57.399 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+12:22:57.800 [main] DEBUG DollarDays - Clicking Sign in Button
+12:23:04.941 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+12:23:05.025 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+12:23:05.111 [main] INFO  DollarDays - AddShipToAddress link is displayed
+12:23:05.263 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+12:23:05.694 [main] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+12:23:05.694 [main] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+12:23:07.411 [main] INFO  DollarDays - Account Overview link url verified successfully.
+12:23:09.586 [main] INFO  DollarDays - My Profile link url verified successfully.
+12:23:12.645 [main] INFO  DollarDays - My Address Book link url verified successfully.
+12:23:16.140 [main] INFO  DollarDays - My Wallet link url verified successfully.

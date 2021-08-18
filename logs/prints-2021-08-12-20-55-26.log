@@ -1,0 +1,41 @@
+20:52:53.394 [TestNG-tests-4] INFO  DollarDays - TC_verifyCountryDropdownDefaultValue Test is passed
+20:52:53.646 [TestNG-tests-4] INFO  DollarDays - TC_verifyStateDropdownOptions Test is starting. TestCase verifies State contains a dropdownlist and displays all the state options correctly.
+20:52:54.347 [TestNG-tests-4] INFO  DollarDays - States List is  displayed as expected
+20:52:54.347 [TestNG-tests-4] INFO  DollarDays - TC_verifyStateDropdownOptions Test is passed
+20:52:54.626 [TestNG-tests-4] INFO  DollarDays - TC_verifyReceivTypeWithShippingDock Test is starting. TestCase verifies Company Name displays alert for commercial with shipping docks.
+20:52:56.530 [TestNG-tests-4] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments with shipping dock:"+companyNameAlert
+20:52:56.533 [TestNG-tests-4] INFO  DollarDays - TC_verifyReceivTypeWithShippingDock Test is passed
+20:52:56.800 [TestNG-tests-4] INFO  DollarDays - TC_verifyReceivTypeWithoutShippingDock Test is starting. TestCase verifies Company Name displays alert for  commercial  without shipping docks.
+20:52:58.701 [TestNG-tests-4] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments without shipping dock:Company name/Organization name is required for commercial shipments
+20:52:58.708 [TestNG-tests-4] INFO  DollarDays - TC_verifyReceivTypeWithoutShippingDock Test is passed
+20:52:58.955 [TestNG-tests-4] INFO  DollarDays - TC_verifyMandatoryFieldsAlertMsgDisplay Test is starting. TestCase verifies display of alert for mandatory textboxes.
+20:53:02.087 [TestNG-tests-4] INFO  DollarDays - Alert is displayed for empty mandatory fields
+20:53:02.087 [TestNG-tests-4] INFO  DollarDays - Given name / first name (Required) is displayed for empty firstname
+20:53:02.087 [TestNG-tests-4] INFO  DollarDays - Surname / last name / family name (Required) is displayed for empty lastname
+20:53:02.095 [TestNG-tests-4] INFO  DollarDays - Address (Required) is displayed for empty streetaddress
+20:53:02.095 [TestNG-tests-4] INFO  DollarDays - Country (Required)is displayed for empty country
+20:53:02.095 [TestNG-tests-4] INFO  DollarDays - City (Required) is displayed for empty city
+20:53:02.095 [TestNG-tests-4] INFO  DollarDays - This field is required. is displayed for empty State
+20:53:02.095 [TestNG-tests-4] INFO  DollarDays - Phone Number (Required) is displayed for empty phoneno
+20:53:02.095 [TestNG-tests-4] INFO  DollarDays - Zip code (Required)is displayed for empty zipcode
+20:53:02.096 [TestNG-tests-4] INFO  DollarDays - TC_verifyMandatoryFieldsAlertMsgDisplay Test is passed
+20:53:02.341 [TestNG-tests-4] INFO  DollarDays - TC_verifyFirstNameTextboxMaxLength Test is starting. TestCase verifies FirstName textbox accepts characters until maxlength defined
+20:53:02.673 [TestNG-tests-4] INFO  DollarDays - Firstname textbox contains22characters
+20:53:02.673 [TestNG-tests-4] INFO  DollarDays - Firstname textbox is accepting up to max 26 characters
+20:53:02.673 [TestNG-tests-4] INFO  DollarDays - TC_verifyFirstNameTextboxMaxLength Test is passed
+20:53:02.958 [TestNG-tests-4] INFO  DollarDays - TC_verifyLastNameTextboxMaxlength Test is starting. TestCase verifies LastName textbox accepts characters until maxlength defined
+20:53:03.275 [TestNG-tests-4] INFO  DollarDays - Lasttname textbox contains19characters
+20:53:03.275 [TestNG-tests-4] INFO  DollarDays - Lasttname textbox is accepting up to max 26 characters
+20:53:03.279 [TestNG-tests-4] INFO  DollarDays - TC_verifyLastNameTextboxMaxlength Test is passed
+20:53:03.544 [TestNG-tests-4] INFO  DollarDays - TC_verifyStreetAddressTextbox Test is starting. TestCase verifies StresstAddress textbox accepts alphanumeric characters.
+20:53:05.324 [TestNG-tests-4] INFO  DollarDays - StreetAddress entered is:333b,Andover-dr
+20:53:05.324 [TestNG-tests-4] INFO  DollarDays - StreetAddress textbox is accepting both alphanumeric and specialchracters
+20:53:05.328 [TestNG-tests-4] INFO  DollarDays - TC_verifyStreetAddressTextbox Test is passed
+20:53:05.625 [TestNG-tests-4] INFO  DollarDays - TC_verifyAptStebldgTextbox Test is starting. TestCase verifies Apt textbox accepts alphanumeric characters.
+20:53:07.413 [TestNG-tests-4] INFO  DollarDays - Apartment entered is:bldg@331
+20:53:07.413 [TestNG-tests-4] INFO  DollarDays - Apt textbox is accepting both alphanumeric and specialchracters
+20:53:07.414 [TestNG-tests-4] INFO  DollarDays - TC_verifyAptStebldgTextbox Test is passed
+20:53:08.746 [TestNG-tests-4] INFO  DollarDays - WebPage is closed
+20:53:25.936 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginUsername' This WebElement is not present/displayed. 
+20:54:26.011 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginPassword' This WebElement is not present/displayed. 
+20:54:26.011 [TestNG-tests-3] DEBUG DollarDays - Clicking Sign in Button.

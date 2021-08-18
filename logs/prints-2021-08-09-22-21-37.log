@@ -1,0 +1,34 @@
+18:23:01.567 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[2]/a' This WebElement is not present/displayed. 
+18:23:39.559 [main] INFO  DollarDays - WebPage is closed
+22:02:46.481 [main] INFO  DollarDays - Chrome Driver is initialized
+22:02:46.507 [main] INFO  DollarDays - Opening the chrome browser and Navigating to Home page of Dollardays
+22:02:49.671 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+22:02:49.671 [main] INFO  DollarDays - Deleting cookies
+22:02:49.886 [main] INFO  DollarDays - Maximize browser window 
+22:02:50.341 [main] INFO  DollarDays - Logging into Dollardays Website .
+22:02:50.342 [main] DEBUG DollarDays - Navigating to Login Page.
+22:02:52.319 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+22:02:53.690 [main] DEBUG DollarDays - Clicking Sign in Button
+22:03:54.549 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='aspnetForm']/header/div[2]/div/div/div[3]/div/ul/li[1]/a/span' This WebElement is not present/displayed. 
+22:04:54.723 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Address Book' This WebElement is not present/displayed. 
+22:05:54.849 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: /html/body/form/footer/div[2]/div/p/input' This WebElement is not present/displayed. 
+22:06:54.997 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: /html/body/form/div[5]/div[1]/section/div/div[1]/h2[1]' This WebElement is not present/displayed. 
+22:07:55.156 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: /html/body/form/div[5]/div[1]/section/div/div[2]/h2' This WebElement is not present/displayed. 
+22:08:15.199 [main] WARN  DollarDays - Web Element List is empty or doesnot exist in this page.So could not fetch the text values 
+22:08:35.716 [main] WARN  DollarDays - Web Element List is empty or doesnot exist in this page.So could not fetch the text values 
+22:08:35.724 [main] INFO  DollarDays - Logging into Dollardays Website .
+22:08:35.726 [main] DEBUG DollarDays - Navigating to Login Page.
+22:09:35.823 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sign in']' This WebElement is not present/displayed. 
+22:10:35.997 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Sign In' This WebElement is not present/displayed. 
+22:10:36.227 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+22:11:36.417 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginUsername' This WebElement is not present/displayed. 
+22:12:36.593 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginPassword' This WebElement is not present/displayed. 
+22:12:36.593 [main] DEBUG DollarDays - Clicking Sign in Button
+22:13:36.757 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div/div/div/div[2]/div/div[1]/div/div/div[4]/button' This WebElement is not present/displayed. 
+22:14:36.952 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='aspnetForm']/header/div[2]/div/div/div[3]/div/ul/li[1]/a/span' This WebElement is not present/displayed. 
+22:15:37.126 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Address Book' This WebElement is not present/displayed. 
+22:16:37.209 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: /html/body/form/footer/div[2]/div/p/input' This WebElement is not present/displayed. 
+22:17:37.375 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //h5[text()='+ Add a new ship-to address']' This WebElement is not present/displayed. 
+22:18:37.537 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='aspnetForm']/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[1]/a' This WebElement is not present/displayed. 
+22:19:37.623 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[3]/a' This WebElement is not present/displayed. 
+22:20:37.739 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div[1]/i' This WebElement is not present/displayed. 

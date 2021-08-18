@@ -1,0 +1,60 @@
+09:26:06.444 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+09:26:09.547 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+09:26:09.547 [main] INFO  DollarDays - Deleting cookies
+09:26:09.595 [main] INFO  DollarDays - Maximize browser window 
+09:26:09.676 [main] INFO  DollarDays - Logging into Dollardays Website .
+09:26:09.677 [main] DEBUG DollarDays - Navigating to Login Page.
+09:26:15.273 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+09:26:15.773 [main] DEBUG DollarDays - Clicking Sign in Button
+09:26:31.908 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+09:26:35.154 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+09:26:36.809 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Sushmitha, sen7hills]
+09:26:36.981 [main] DEBUG DollarDays - Name fetched from excel is :[Sushmitha, sen7hills]
+09:26:37.054 [main] DEBUG DollarDays - Address in Account overview page is: [110, 25501 Shaker Blvd, Beachwood, OH 44122]
+09:26:37.082 [main] DEBUG DollarDays - Name fetched from excel is :[110,  25501 Shaker Blvd,  Beachwood,  OH  44122]
+09:26:37.082 [main] INFO  DollarDays - Name and Address is not saved in Account overview page correctly
+09:26:39.752 [main] INFO  DollarDays - WebPage is closed
+09:27:10.013 [main] INFO  DollarDays - Firefox Driver is initialized
+09:27:10.018 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+09:27:14.415 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+09:27:14.415 [main] INFO  DollarDays - Deleting cookies
+09:27:14.462 [main] INFO  DollarDays - Maximize browser window 
+09:27:14.559 [main] INFO  DollarDays - Logging into Dollardays Website .
+09:27:14.562 [main] DEBUG DollarDays - Navigating to Login Page.
+09:27:19.661 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+09:27:20.204 [main] DEBUG DollarDays - Clicking Sign in Button
+09:27:35.511 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+09:27:38.050 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+09:27:39.278 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Sushmitha, sen7hills]
+09:27:39.391 [main] DEBUG DollarDays - Name fetched from excel is :[Sushmitha, sen7hills]
+09:27:39.525 [main] DEBUG DollarDays - Address in Account overview page is: [110, 25501 Shaker Blvd, Beachwood, OH 44122]
+09:27:39.567 [main] DEBUG DollarDays - Name fetched from excel is :[110,  25501 Shaker Blvd,  Beachwood,  OH  44122]
+09:27:39.567 [main] INFO  DollarDays - Name and Address is not saved in Account overview page correctly
+09:27:42.011 [main] INFO  DollarDays - WebPage is closed
+09:28:53.413 [main] INFO  DollarDays - Firefox Driver is initialized
+09:28:53.420 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+09:28:56.997 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+09:28:56.997 [main] INFO  DollarDays - Deleting cookies
+09:28:57.031 [main] INFO  DollarDays - Maximize browser window 
+09:28:57.109 [main] INFO  DollarDays - Logging into Dollardays Website .
+09:28:57.110 [main] DEBUG DollarDays - Navigating to Login Page.
+09:29:01.853 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+09:29:02.312 [main] DEBUG DollarDays - Clicking Sign in Button
+09:29:17.776 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+09:29:20.299 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+09:29:21.502 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Sushmitha, sen7hills]
+09:29:21.622 [main] DEBUG DollarDays - Name fetched from excel is :[Sushmitha, sen7hills]
+09:29:21.743 [main] DEBUG DollarDays - Address in Account overview page is: [110, 25501 Shaker Blvd, Beachwood, OH 44122]
+09:29:21.826 [main] DEBUG DollarDays - Name fetched from excel is :[110, 25501 Shaker Blvd, Beachwood, OH 44122]
+09:29:21.827 [main] INFO  DollarDays - Name and Address is not saved in Account overview page correctly
+09:29:24.436 [main] INFO  DollarDays - WebPage is closed
+09:32:05.867 [main] INFO  DollarDays - Firefox Driver is initialized
+09:32:05.873 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+09:32:09.491 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+09:32:09.491 [main] INFO  DollarDays - Deleting cookies
+09:32:09.521 [main] INFO  DollarDays - Maximize browser window 
+09:32:09.615 [main] INFO  DollarDays - Logging into Dollardays Website .
+09:32:09.616 [main] DEBUG DollarDays - Navigating to Login Page.
+09:32:14.540 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+09:32:15.049 [main] DEBUG DollarDays - Clicking Sign in Button
+09:32:32.285 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink

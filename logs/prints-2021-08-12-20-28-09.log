@@ -1,0 +1,61 @@
+18:30:22.711 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+18:30:22.795 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+18:30:22.877 [main] INFO  DollarDays - AddShipToAddress link is displayed
+18:30:23.050 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+18:30:23.505 [main] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+18:30:23.506 [main] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+18:30:24.455 [main] INFO  DollarDays - Country  is   verified as a DropdownList successfully.
+18:30:27.130 [main] INFO  DollarDays - United States of America is selected from dropdownlist by default
+18:30:28.850 [main] INFO  DollarDays - WebPage is closed
+18:35:58.090 [main] INFO  DollarDays - Firefox Driver is initialized
+18:35:58.096 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+18:36:01.792 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+18:36:01.792 [main] INFO  DollarDays - Deleting cookies
+18:36:01.837 [main] INFO  DollarDays - Maximize browser window 
+18:36:01.918 [main] INFO  DollarDays - Logging into Dollardays Website .
+18:36:01.919 [main] DEBUG DollarDays - Navigating to Login Page.
+18:36:06.503 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+18:36:06.982 [main] DEBUG DollarDays - Clicking Sign in Button
+18:36:14.315 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+18:36:14.396 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+18:36:14.434 [main] INFO  DollarDays - AddShipToAddress link is displayed
+18:36:14.619 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+18:36:15.065 [main] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+18:36:15.066 [main] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+18:36:16.073 [main] INFO  DollarDays - Country  is   verified as a DropdownList successfully.
+18:36:18.697 [main] INFO  DollarDays - United States of America is selected from dropdownlist by default
+18:36:20.557 [main] INFO  DollarDays - WebPage is closed
+20:26:17.147 [main] INFO  DollarDays - Firefox Driver is initialized
+20:26:17.154 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:26:20.543 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+20:26:20.543 [main] INFO  DollarDays - Deleting cookies
+20:26:20.571 [main] INFO  DollarDays - Maximize browser window 
+20:26:20.670 [main] INFO  DollarDays - Logging into Dollardays Website .
+20:26:20.671 [main] DEBUG DollarDays - Navigating to Login Page.
+20:26:26.006 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+20:26:26.524 [main] DEBUG DollarDays - Clicking Sign in Button
+20:26:35.655 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+20:26:35.751 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+20:26:35.823 [main] INFO  DollarDays - AddShipToAddress link is displayed
+20:26:35.989 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+20:26:36.744 [main] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+20:26:36.744 [main] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+20:26:37.711 [main] INFO  DollarDays - Country  is   verified as a DropdownList successfully.
+20:26:40.357 [main] INFO  DollarDays - United States of America is selected from dropdownlist by default
+20:26:42.334 [main] INFO  DollarDays - WebPage is closed
+20:27:53.330 [main] INFO  DollarDays - Firefox Driver is initialized
+20:27:53.336 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:27:56.620 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+20:27:56.620 [main] INFO  DollarDays - Deleting cookies
+20:27:56.662 [main] INFO  DollarDays - Maximize browser window 
+20:27:56.748 [main] INFO  DollarDays - Logging into Dollardays Website .
+20:27:56.749 [main] DEBUG DollarDays - Navigating to Login Page.
+20:28:02.483 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+20:28:03.064 [main] DEBUG DollarDays - Clicking Sign in Button
+20:28:09.815 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.

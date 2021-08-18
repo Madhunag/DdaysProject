@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.DollarDays.listeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Validating homePage After User is Signed in (failed)" parallel="tests">
+    <classes>
+      <class name="com.DollarDays.testCases.HomePageAfterSigninTest">
+        <methods>
+          <include name="TC_verifyUserHomePageTitle"/>
+          <include name="teardown"/>
+          <include name="TC_Login"/>
+          <include name="TC_CheckUserDropDownList"/>
+          <include name="TC_verifyUserDropDownUrl"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- com.DollarDays.testCases.HomePageAfterSigninTest -->
+    </classes>
+  </test> <!-- Validating homePage After User is Signed in (failed) -->
+</suite> <!-- Failed suite [Suite] -->

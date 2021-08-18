@@ -1,0 +1,45 @@
+08:36:07.815 [main] DEBUG DollarDays - Clicking Sign in Button
+08:36:15.231 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+08:36:15.337 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+13:41:09.864 [main] INFO  DollarDays - Firefox Driver is initialized
+13:41:09.878 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+13:41:14.333 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+13:41:14.333 [main] INFO  DollarDays - Deleting cookies
+13:41:14.353 [main] INFO  DollarDays - Maximize browser window 
+13:41:14.466 [main] INFO  DollarDays - Logging into Dollardays Website .
+13:41:14.468 [main] DEBUG DollarDays - Navigating to Login Page.
+13:41:19.504 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+13:41:19.993 [main] DEBUG DollarDays - Clicking Sign in Button
+13:41:27.218 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+13:41:27.286 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+13:42:28.281 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='aspnetForm']/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[1]/a' This WebElement is not present/displayed. 
+13:43:28.496 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[3]/a' This WebElement is not present/displayed. 
+13:44:28.561 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div[1]/i' This WebElement is not present/displayed. 
+13:45:28.618 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='aspnetForm']/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/p' This WebElement is not present/displayed. 
+13:46:30.206 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[2]/a' This WebElement is not present/displayed. 
+13:47:30.394 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[2]/a' This WebElement is not present/displayed. 
+13:47:52.120 [main] INFO  DollarDays - WebPage is closed
+13:57:29.238 [main] INFO  DollarDays - Firefox Driver is initialized
+13:57:29.244 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+13:57:42.947 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+13:57:42.947 [main] INFO  DollarDays - Deleting cookies
+13:57:43.003 [main] INFO  DollarDays - Maximize browser window 
+13:57:43.104 [main] INFO  DollarDays - Logging into Dollardays Website .
+13:57:43.104 [main] DEBUG DollarDays - Navigating to Login Page.
+13:57:57.220 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+13:57:57.868 [main] DEBUG DollarDays - Clicking Sign in Button
+13:58:09.346 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+13:58:10.108 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+13:59:35.862 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[2]/a' This WebElement is not present/displayed. 
+14:00:35.927 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='confirmationBox']/div/div' This WebElement is not present/displayed. 
+14:01:36.002 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[2]/a' This WebElement is not present/displayed. 
+14:02:22.842 [main] INFO  DollarDays - Firefox Driver is initialized
+14:02:22.850 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+14:02:28.759 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+14:02:28.761 [main] INFO  DollarDays - Deleting cookies
+14:02:29.418 [main] INFO  DollarDays - Maximize browser window 
+14:02:31.523 [main] INFO  DollarDays - Logging into Dollardays Website .
+14:02:31.653 [main] DEBUG DollarDays - Navigating to Login Page.
+14:02:41.170 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+14:02:41.785 [main] DEBUG DollarDays - Clicking Sign in Button
+14:02:50.018 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.

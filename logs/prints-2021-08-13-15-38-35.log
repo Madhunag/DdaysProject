@@ -1,0 +1,37 @@
+21:15:14.911 [TestNG-tests-3] INFO  DollarDays - User is not Signed in
+21:15:14.911 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is passed
+21:15:16.075 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is starting. This Testcase checks for logging in functionality using valid and invalid username/password combinations
+21:15:16.090 [TestNG-tests-3] DEBUG DollarDays - Clicking  SigninIcon and then SignIn option from the DropDown List to navigate to Login Page
+21:16:18.349 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Sign In' This WebElement is not present/displayed. 
+21:16:18.349 [TestNG-tests-3] DEBUG DollarDays - Clearing and Entering UserEmail and Password .
+21:17:18.448 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginUsername' This WebElement is not present/displayed. 
+21:18:18.540 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginPassword' This WebElement is not present/displayed. 
+21:18:18.540 [TestNG-tests-3] DEBUG DollarDays - Clicking Sign in Button.
+21:19:18.611 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div/div/div/div[2]/div/div[1]/div/div/div[4]/button' This WebElement is not present/displayed. 
+21:19:18.617 [TestNG-tests-3] INFO  DollarDays - Checking if user has signed in to dollardays WebPage
+21:19:18.665 [TestNG-tests-3] INFO  DollarDays - User is not Signed in
+21:19:18.665 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is passed
+21:19:19.433 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is starting. This Testcase checks for logging in functionality using valid and invalid username/password combinations
+21:19:19.464 [TestNG-tests-3] DEBUG DollarDays - Clicking  SigninIcon and then SignIn option from the DropDown List to navigate to Login Page
+21:20:20.626 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Sign In' This WebElement is not present/displayed. 
+21:20:20.626 [TestNG-tests-3] DEBUG DollarDays - Clearing and Entering UserEmail and Password .
+21:21:20.708 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginUsername' This WebElement is not present/displayed. 
+21:22:20.804 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginPassword' This WebElement is not present/displayed. 
+21:22:20.804 [TestNG-tests-3] DEBUG DollarDays - Clicking Sign in Button.
+21:23:20.875 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div/div/div/div[2]/div/div[1]/div/div/div[4]/button' This WebElement is not present/displayed. 
+21:23:20.875 [TestNG-tests-3] INFO  DollarDays - Checking if user has signed in to dollardays WebPage
+21:23:20.922 [TestNG-tests-3] INFO  DollarDays - User is not Signed in
+21:23:20.922 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is passed
+21:23:21.966 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is starting. This Testcase checks for logging in functionality using valid and invalid username/password combinations
+21:23:21.981 [TestNG-tests-3] DEBUG DollarDays - Clicking  SigninIcon and then SignIn option from the DropDown List to navigate to Login Page
+21:24:24.053 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Sign In' This WebElement is not present/displayed. 
+21:24:24.053 [TestNG-tests-3] DEBUG DollarDays - Clearing and Entering UserEmail and Password .
+21:25:24.132 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginUsername' This WebElement is not present/displayed. 
+21:26:24.202 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.id: inputLoginPassword' This WebElement is not present/displayed. 
+21:26:24.202 [TestNG-tests-3] DEBUG DollarDays - Clicking Sign in Button.
+21:27:24.285 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div/div/div/div[2]/div/div[1]/div/div/div[4]/button' This WebElement is not present/displayed. 
+21:27:24.285 [TestNG-tests-3] INFO  DollarDays - Checking if user has signed in to dollardays WebPage
+21:27:24.385 [TestNG-tests-3] INFO  DollarDays - User is Signed in
+21:27:24.385 [TestNG-tests-3] INFO  DollarDays - Signed in to DollarDays successfully with valid user team6testing@gmail.com and valid password password123. Testcase Passed.
+21:27:24.401 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is passed
+21:27:25.927 [TestNG-tests-3] INFO  DollarDays - WebPage is closed

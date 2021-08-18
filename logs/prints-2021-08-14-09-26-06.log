@@ -1,0 +1,66 @@
+08:38:19.144 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+08:38:19.510 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+08:38:19.511 [main] INFO  DollarDays - Deleting cookies
+08:38:19.539 [main] INFO  DollarDays - Maximize browser window 
+08:39:28.721 [main] INFO  DollarDays - Firefox Driver is initialized
+08:39:28.727 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+09:19:11.078 [main] INFO  DollarDays - Firefox Driver is initialized
+09:19:11.084 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+09:19:14.478 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+09:19:14.478 [main] INFO  DollarDays - Deleting cookies
+09:19:14.511 [main] INFO  DollarDays - Maximize browser window 
+09:19:14.599 [main] INFO  DollarDays - Logging into Dollardays Website .
+09:19:14.601 [main] DEBUG DollarDays - Navigating to Login Page.
+09:19:19.744 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+09:19:20.241 [main] DEBUG DollarDays - Clicking Sign in Button
+09:19:37.709 [main] INFO  DollarDays - WebPage is closed
+09:20:12.778 [main] INFO  DollarDays - Firefox Driver is initialized
+09:20:12.783 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+09:20:15.996 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+09:20:15.997 [main] INFO  DollarDays - Deleting cookies
+09:20:16.013 [main] INFO  DollarDays - Maximize browser window 
+09:20:16.095 [main] INFO  DollarDays - Logging into Dollardays Website .
+09:20:16.096 [main] DEBUG DollarDays - Navigating to Login Page.
+09:20:21.891 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+09:20:22.423 [main] DEBUG DollarDays - Clicking Sign in Button
+09:20:39.500 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+09:20:42.032 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+09:20:43.972 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Sushmitha, sen7hills]
+09:20:44.103 [main] DEBUG DollarDays - Name fetched from excel is :[Sushmitha, sen7hills]
+09:20:44.209 [main] DEBUG DollarDays - Address in Account overview page is: [110, 25501 Shaker Blvd, Beachwood, OH 44122]
+09:20:44.244 [main] DEBUG DollarDays - Name fetched from excel is :[110
+25501 Shaker Blvd
+Beachwood, OH 44122]
+09:20:44.244 [main] INFO  DollarDays - Name and Address is not saved in Account overview page correctly
+09:20:47.061 [main] INFO  DollarDays - WebPage is closed
+09:21:59.681 [main] INFO  DollarDays - Firefox Driver is initialized
+09:21:59.687 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+09:22:08.230 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+09:22:08.231 [main] INFO  DollarDays - Deleting cookies
+09:22:08.250 [main] INFO  DollarDays - Maximize browser window 
+09:22:08.326 [main] INFO  DollarDays - Logging into Dollardays Website .
+09:22:08.327 [main] DEBUG DollarDays - Navigating to Login Page.
+09:22:13.947 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+09:22:14.384 [main] DEBUG DollarDays - Clicking Sign in Button
+09:22:29.671 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+09:22:40.120 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+09:22:59.176 [main] INFO  DollarDays - Firefox Driver is initialized
+09:22:59.182 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+09:23:02.492 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+09:23:02.492 [main] INFO  DollarDays - Deleting cookies
+09:23:02.531 [main] INFO  DollarDays - Maximize browser window 
+09:23:02.626 [main] INFO  DollarDays - Logging into Dollardays Website .
+09:23:02.627 [main] DEBUG DollarDays - Navigating to Login Page.
+09:23:07.366 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+09:23:07.890 [main] DEBUG DollarDays - Clicking Sign in Button
+09:23:22.991 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+09:23:25.505 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+09:23:27.326 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Sushmitha, sen7hills]
+09:23:27.396 [main] DEBUG DollarDays - Name fetched from excel is :[Sushmitha, sen7hills]
+09:23:27.504 [main] DEBUG DollarDays - Address in Account overview page is: [110, 25501 Shaker Blvd, Beachwood, OH 44122]
+09:23:27.556 [main] DEBUG DollarDays - Name fetched from excel is :[110,
+25501 Shaker Blvd,
+Beachwood, OH 44122]
+09:23:27.557 [main] INFO  DollarDays - Name and Address is not saved in Account overview page correctly
+09:23:29.785 [main] INFO  DollarDays - WebPage is closed
+09:26:06.437 [main] INFO  DollarDays - Firefox Driver is initialized

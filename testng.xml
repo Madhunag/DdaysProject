@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+	<listeners>
+	    <listener class-name="com.DollarDays.listeners.Listeners" />
+	</listeners>
+	
+
+     	<test name="Validating homePage After User is Signed in ">
+    	<classes>
+      		<class  name="com.DollarDays.testCases.HomePageAfterSigninTest"/> 
+        </classes>
+   	</test> 
+    	    
+ <!--  	<test name="Validating User login">
+    	<classes>
+      		<class  name="com.DollarDays.testCases.LoginPageTest"/> 
+        </classes>
+   	</test>
+ 	
+   	<test name="Validating User login datadriven">
+    	<classes>
+      		<class  name="com.DollarDays.testCases.LoginDataDriverTest"/> 
+        </classes>
+   	</test> 
+   	
+  <test name="Validating AddressBookPage ">
+    	<classes>
+      		<class  name="com.DollarDays.testCases.AddressBookPageTest"/> 
+        </classes>
+   	</test> -->
+  
+</suite> <!-- Suite -->

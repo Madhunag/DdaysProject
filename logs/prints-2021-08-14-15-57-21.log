@@ -1,0 +1,47 @@
+15:54:40.443 [main] INFO  DollarDays - Maximize browser window 
+15:54:40.628 [main] INFO  DollarDays - Logging into Dollardays Website .
+15:54:40.632 [main] DEBUG DollarDays - Navigating to Login Page.
+15:54:47.015 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+15:54:47.572 [main] DEBUG DollarDays - Clicking Sign in Button
+15:54:57.574 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+15:54:57.706 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+15:54:57.836 [main] INFO  DollarDays - AddShipToAddress link is displayed
+15:54:58.114 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+15:54:59.258 [main] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+15:54:59.259 [main] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+15:55:00.972 [main] INFO  DollarDays - Account Overview link url verified successfully.
+15:55:03.795 [main] INFO  DollarDays - My Profile link url verified successfully.
+15:55:08.144 [main] INFO  DollarDays - My Address Book link url verified successfully.
+15:55:11.082 [main] INFO  DollarDays - My Favorites link url verified successfully.
+15:55:15.369 [main] INFO  DollarDays - Order History link url verified successfully.
+15:55:19.463 [main] INFO  DollarDays - User is able to log out successfully
+15:55:19.463 [main] INFO  DollarDays - Logging into Dollardays Website .
+15:55:19.474 [main] DEBUG DollarDays - Navigating to Login Page.
+15:55:26.396 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+15:55:27.056 [main] DEBUG DollarDays - Clicking Sign in Button
+15:55:46.554 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+15:55:56.037 [main] INFO  DollarDays - Added Address is  edited succesfully
+15:55:59.087 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+15:56:01.456 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Priya, lathaAmazon]
+15:56:01.502 [main] DEBUG DollarDays - Name fetched from excel is :[Priya, lathaAmazon]
+15:56:01.652 [main] DEBUG DollarDays - Address in Account overview page is: [100, 23001 Glenoaks Rd, Burbank, CA 91504]
+15:56:01.695 [main] DEBUG DollarDays - Name fetched from excel is :[100, 23001 Glenoaks Rd, Burbank, CA 91504]
+15:56:06.394 [main] INFO  DollarDays - Address is not deleted on clicking no button in confirmation box
+15:57:08.578 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]' This WebElement is not present/displayed. 
+15:57:08.579 [main] INFO  DollarDays - DeleteLinkYesBtn is verified successfully.
+15:57:09.870 [main] INFO  DollarDays - Country  is   verified as a DropdownList successfully.
+15:57:12.623 [main] INFO  DollarDays - United States of America is selected from dropdownlist by default
+15:57:13.950 [main] DEBUG DollarDays - [Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming]expstateslist is displayed
+15:57:13.951 [main] INFO  DollarDays - States List is  displayed as expected
+15:57:16.045 [main] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments with shipping dock:"+companyNameAlert
+15:57:18.072 [main] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments without shipping dock:Company name/Organization name is required for commercial shipments
+15:57:21.814 [main] INFO  DollarDays - Alert is displayed for empty mandatory fields
+15:57:21.814 [main] INFO  DollarDays - Given name / first name (Required) is displayed for empty firstname
+15:57:21.814 [main] INFO  DollarDays - Surname / last name / family name (Required) is displayed for empty lastname
+15:57:21.815 [main] INFO  DollarDays - Address (Required) is displayed for empty streetaddress
+15:57:21.815 [main] INFO  DollarDays - Country (Required)is displayed for empty country
+15:57:21.815 [main] INFO  DollarDays - City (Required) is displayed for empty city
+15:57:21.815 [main] INFO  DollarDays - This field is required. is displayed for empty State
+15:57:21.816 [main] INFO  DollarDays - Phone Number (Required) is displayed for empty phoneno

@@ -1,0 +1,40 @@
+16:15:03.757 [TestNG-tests-1] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]' This WebElement is not present/displayed. 
+16:15:03.762 [TestNG-tests-1] INFO  DollarDays - DeleteLinkYesBtn is verified successfully.
+16:15:03.764 [TestNG-tests-1] INFO  DollarDays - TC_verifyDeleteLinkYesBtn Test is passed
+16:15:04.025 [TestNG-tests-1] INFO  DollarDays - TC_verifyCountryDropdownIsAList Test is starting. TestCase verifies Country is a dropdownlist
+16:15:04.979 [TestNG-tests-1] INFO  DollarDays - Country  is   verified as a DropdownList successfully.
+16:15:05.990 [TestNG-tests-1] INFO  DollarDays - TC_verifyCountryDropdownIsAList Test is passed
+16:15:06.240 [TestNG-tests-1] INFO  DollarDays - TC_verifyCountryDropdownDefaultValue Test is starting. TestCase verifies Country's default value is United States of America.
+16:15:07.878 [TestNG-tests-1] INFO  DollarDays - United States of America is selected from dropdownlist by default
+16:15:07.880 [TestNG-tests-1] INFO  DollarDays - TC_verifyCountryDropdownDefaultValue Test is passed
+16:15:08.130 [TestNG-tests-1] INFO  DollarDays - TC_verifyStateDropdownOptions Test is starting. TestCase verifies State contains a dropdownlist and displays all the state options correctly.
+16:15:08.791 [TestNG-tests-1] INFO  DollarDays - States List is  displayed as expected
+16:15:08.791 [TestNG-tests-1] INFO  DollarDays - TC_verifyStateDropdownOptions Test is passed
+16:15:09.053 [TestNG-tests-1] INFO  DollarDays - TC_verifyReceivTypeWithShippingDock Test is starting. TestCase verifies Company Name displays alert for commercial with shipping docks.
+16:15:10.940 [TestNG-tests-1] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments with shipping dock:"+companyNameAlert
+16:15:10.941 [TestNG-tests-1] INFO  DollarDays - TC_verifyReceivTypeWithShippingDock Test is passed
+16:15:11.198 [TestNG-tests-1] INFO  DollarDays - TC_verifyReceivTypeWithoutShippingDock Test is starting. TestCase verifies Company Name displays alert for  commercial  without shipping docks.
+16:15:13.076 [TestNG-tests-1] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments without shipping dock:Company name/Organization name is required for commercial shipments
+16:15:13.077 [TestNG-tests-1] INFO  DollarDays - TC_verifyReceivTypeWithoutShippingDock Test is passed
+16:15:13.342 [TestNG-tests-1] INFO  DollarDays - TC_verifyMandatoryFieldsAlertMsgDisplay Test is starting. TestCase verifies display of alert for mandatory textboxes.
+16:15:16.341 [TestNG-tests-1] INFO  DollarDays - Alert is displayed for empty mandatory fields
+16:15:16.341 [TestNG-tests-1] INFO  DollarDays - Given name / first name (Required) is displayed for empty firstname
+16:15:16.341 [TestNG-tests-1] INFO  DollarDays - Surname / last name / family name (Required) is displayed for empty lastname
+16:15:16.341 [TestNG-tests-1] INFO  DollarDays - Address (Required) is displayed for empty streetaddress
+16:15:16.341 [TestNG-tests-1] INFO  DollarDays - Country (Required)is displayed for empty country
+16:15:16.341 [TestNG-tests-1] INFO  DollarDays - City (Required) is displayed for empty city
+16:15:16.341 [TestNG-tests-1] INFO  DollarDays - This field is required. is displayed for empty State
+16:15:16.342 [TestNG-tests-1] INFO  DollarDays - Phone Number (Required) is displayed for empty phoneno
+16:15:16.342 [TestNG-tests-1] INFO  DollarDays - Zip code (Required)is displayed for empty zipcode
+16:15:16.342 [TestNG-tests-1] INFO  DollarDays - TC_verifyMandatoryFieldsAlertMsgDisplay Test is passed
+16:15:16.592 [TestNG-tests-1] INFO  DollarDays - TC_verifyFirstNameTextboxMaxLength Test is starting. TestCase verifies FirstName textbox accepts characters until maxlength defined
+16:15:16.919 [TestNG-tests-1] INFO  DollarDays - Firstname textbox contains22characters
+16:15:16.919 [TestNG-tests-1] INFO  DollarDays - Firstname textbox is accepting up to max 26 characters
+16:15:16.920 [TestNG-tests-1] INFO  DollarDays - TC_verifyFirstNameTextboxMaxLength Test is passed
+16:15:17.207 [TestNG-tests-1] INFO  DollarDays - TC_verifyLastNameTextboxMaxlength Test is starting. TestCase verifies LastName textbox accepts characters until maxlength defined
+16:15:17.670 [TestNG-tests-1] INFO  DollarDays - Lasttname textbox contains19characters
+16:15:17.670 [TestNG-tests-1] INFO  DollarDays - Lasttname textbox is accepting up to max 26 characters
+16:15:17.671 [TestNG-tests-1] INFO  DollarDays - TC_verifyLastNameTextboxMaxlength Test is passed
+16:15:17.933 [TestNG-tests-1] INFO  DollarDays - TC_verifyStreetAddressTextbox Test is starting. TestCase verifies StresstAddress textbox accepts alphanumeric characters.
+16:15:19.690 [TestNG-tests-1] INFO  DollarDays - StreetAddress entered is:333b,Andover-dr
+16:15:19.691 [TestNG-tests-1] INFO  DollarDays - StreetAddress textbox is accepting both alphanumeric and specialchracters

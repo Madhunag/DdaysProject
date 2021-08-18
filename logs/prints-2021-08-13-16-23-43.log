@@ -1,0 +1,41 @@
+16:15:19.693 [TestNG-tests-1] INFO  DollarDays - TC_verifyStreetAddressTextbox Test is passed
+16:15:19.954 [TestNG-tests-1] INFO  DollarDays - TC_verifyAptStebldgTextbox Test is starting. TestCase verifies Apt textbox accepts alphanumeric characters.
+16:15:21.660 [TestNG-tests-1] INFO  DollarDays - Apartment entered is:bldg@331
+16:15:21.660 [TestNG-tests-1] INFO  DollarDays - Apt textbox is accepting both alphanumeric and specialchracters
+16:15:21.662 [TestNG-tests-1] INFO  DollarDays - TC_verifyAptStebldgTextbox Test is passed
+16:15:23.042 [TestNG-tests-1] INFO  DollarDays - WebPage is closed
+16:22:48.477 [TestNG-tests-1] INFO  DollarDays - Firefox Driver is initialized
+16:22:48.487 [TestNG-tests-1] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+16:22:52.207 [TestNG-tests-1] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+16:22:52.207 [TestNG-tests-1] INFO  DollarDays - Deleting cookies
+16:22:52.238 [TestNG-tests-1] INFO  DollarDays - Maximize browser window 
+16:22:52.354 [TestNG-tests-1] INFO  DollarDays - TC_Login Test is starting. This testcase verifies user is able to login from home page with valid credentials.
+16:22:52.354 [TestNG-tests-1] DEBUG DollarDays - Refreshing HomePage /Navigating to HomePage
+16:22:53.560 [TestNG-tests-1] INFO  DollarDays - Logging into Dollardays Website .
+16:22:53.560 [TestNG-tests-1] DEBUG DollarDays - Navigating to Login Page.
+16:22:57.940 [TestNG-tests-1] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+16:22:58.431 [TestNG-tests-1] DEBUG DollarDays - Clicking Sign in Button
+16:22:58.568 [TestNG-tests-1] INFO  DollarDays - Checking if user has signed in to dollardays WebPage
+16:22:59.881 [TestNG-tests-1] INFO  DollarDays - User is not Signed in
+16:22:59.895 [TestNG-tests-1] ERROR DollarDays - TC_Login test failed.  java.lang.AssertionError: Could not Login to Dollardays.Testcase failed. expected [true] but found [false]
+16:23:01.299 [TestNG-tests-1] WARN  DollarDays - TC_verifyUserHomePageTitle Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_verifyUserHomePageTitle()[pri:1, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+16:23:01.302 [TestNG-tests-1] WARN  DollarDays - TC_CheckUserDropDownList Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_CheckUserDropDownList()[pri:2, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+16:23:01.306 [TestNG-tests-1] WARN  DollarDays - TC_verifyUserDropDownUrl Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_verifyUserDropDownUrl(java.lang.String)[pri:3, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+16:23:02.309 [TestNG-tests-1] INFO  DollarDays - WebPage is closed.
+16:23:29.088 [TestNG-tests-1] INFO  DollarDays - Firefox Driver is initialized
+16:23:29.088 [TestNG-tests-1] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+16:23:31.448 [TestNG-tests-1] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+16:23:31.448 [TestNG-tests-1] INFO  DollarDays - Deleting cookies
+16:23:31.465 [TestNG-tests-1] INFO  DollarDays - Maximize browser window 
+16:23:31.593 [TestNG-tests-1] INFO  DollarDays - TC_Login Test is starting. This testcase verifies user is able to login from home page with valid credentials.
+16:23:31.595 [TestNG-tests-1] DEBUG DollarDays - Refreshing HomePage /Navigating to HomePage
+16:23:33.083 [TestNG-tests-1] INFO  DollarDays - Logging into Dollardays Website .
+16:23:33.083 [TestNG-tests-1] DEBUG DollarDays - Navigating to Login Page.
+16:23:39.209 [TestNG-tests-1] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+16:23:39.563 [TestNG-tests-1] DEBUG DollarDays - Clicking Sign in Button
+16:23:39.745 [TestNG-tests-1] INFO  DollarDays - Checking if user has signed in to dollardays WebPage
+16:23:41.051 [TestNG-tests-1] INFO  DollarDays - User is not Signed in
+16:23:41.063 [TestNG-tests-1] ERROR DollarDays - TC_Login test failed.  java.lang.AssertionError: Could not Login to Dollardays.Testcase failed. expected [true] but found [false]
+16:23:42.528 [TestNG-tests-1] WARN  DollarDays - TC_verifyUserHomePageTitle Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_verifyUserHomePageTitle()[pri:1, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+16:23:42.528 [TestNG-tests-1] WARN  DollarDays - TC_CheckUserDropDownList Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_CheckUserDropDownList()[pri:2, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods
+16:23:42.528 [TestNG-tests-1] WARN  DollarDays - TC_verifyUserDropDownUrl Test was skipped. java.lang.Throwable: Method HomePageAfterSigninTest.TC_verifyUserDropDownUrl(java.lang.String)[pri:3, instance:com.DollarDays.testCases.HomePageAfterSigninTest@704deff2] depends on not successfully finished methods

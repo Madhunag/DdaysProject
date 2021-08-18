@@ -1,0 +1,56 @@
+20:39:46.424 [main] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments without shipping dock:Company name/Organization name is required for commercial shipments
+20:39:49.443 [main] INFO  DollarDays - Alert is displayed for empty mandatory fields
+20:39:49.443 [main] INFO  DollarDays - Given name / first name (Required) is displayed for empty firstname
+20:39:49.443 [main] INFO  DollarDays - Surname / last name / family name (Required) is displayed for empty lastname
+20:39:49.450 [main] INFO  DollarDays - Address (Required) is displayed for empty streetaddress
+20:39:49.450 [main] INFO  DollarDays - Country (Required)is displayed for empty country
+20:39:49.450 [main] INFO  DollarDays - City (Required) is displayed for empty city
+20:39:49.452 [main] INFO  DollarDays - This field is required. is displayed for empty State
+20:39:49.452 [main] INFO  DollarDays - Phone Number (Required) is displayed for empty phoneno
+20:39:49.452 [main] INFO  DollarDays - Zip code (Required)is displayed for empty zipcode
+20:39:49.780 [main] INFO  DollarDays - Firstname textbox contains22characters
+20:39:49.780 [main] INFO  DollarDays - Firstname textbox is accepting up to max 26 characters
+20:39:50.313 [main] INFO  DollarDays - Lasttname textbox contains19characters
+20:39:50.313 [main] INFO  DollarDays - Lasttname textbox is accepting up to max 26 characters
+20:39:52.161 [main] INFO  DollarDays - StreetAddress entered is:333b,Andover-dr
+20:39:52.161 [main] INFO  DollarDays - StreetAddress textbox is accepting both alphanumeric and specialchracters
+20:39:53.900 [main] INFO  DollarDays - Apartment entered is:bldg@331
+20:39:53.900 [main] INFO  DollarDays - Apt textbox is accepting both alphanumeric and specialchracters
+20:39:55.158 [main] INFO  DollarDays - WebPage is closed
+20:42:40.873 [main] INFO  DollarDays - Firefox Driver is initialized
+20:42:40.883 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:42:46.196 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+20:42:46.196 [main] INFO  DollarDays - Deleting cookies
+20:42:46.213 [main] INFO  DollarDays - Maximize browser window 
+20:42:46.274 [main] INFO  DollarDays - Logging into Dollardays Website .
+20:42:46.275 [main] DEBUG DollarDays - Navigating to Login Page.
+20:42:51.373 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+20:42:51.826 [main] DEBUG DollarDays - Clicking Sign in Button
+20:42:58.493 [main] INFO  DollarDays - Verified AddressBookPage Title successfully.
+20:42:58.640 [main] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+20:42:58.740 [main] INFO  DollarDays - AddShipToAddress link is displayed
+20:42:58.894 [main] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+20:42:59.357 [main] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+20:42:59.357 [main] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+20:43:02.219 [main] INFO  DollarDays - Account Overview link url verified successfully.
+20:43:04.455 [main] INFO  DollarDays - My Profile link url verified successfully.
+20:43:07.933 [main] INFO  DollarDays - My Address Book link url verified successfully.
+20:43:09.167 [main] INFO  DollarDays - My Wallet link url verified successfully.
+20:43:11.742 [main] INFO  DollarDays - Tax Exempt link url verified successfully.
+20:43:13.979 [main] INFO  DollarDays - My Favorites link url verified successfully.
+20:43:16.353 [main] INFO  DollarDays - Order History link url verified successfully.
+20:43:18.827 [main] INFO  DollarDays - User is able to log out successfully
+20:43:18.841 [main] INFO  DollarDays - Logging into Dollardays Website .
+20:43:18.844 [main] DEBUG DollarDays - Navigating to Login Page.
+20:43:22.953 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+20:43:23.670 [main] DEBUG DollarDays - Clicking Sign in Button
+20:43:39.304 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+20:43:47.154 [main] INFO  DollarDays - Added Address is  edited succesfully
+20:43:51.461 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+20:43:52.648 [main] INFO  DollarDays - Address is not saved in Account overview page correctly
+20:43:56.054 [main] INFO  DollarDays - Address is not deleted on clicking no button in confirmation box
+20:44:57.977 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]' This WebElement is not present/displayed. 
+20:44:57.977 [main] INFO  DollarDays - DeleteLinkYesBtn is verified successfully.
+20:44:58.948 [main] INFO  DollarDays - Country  is   verified as a DropdownList successfully.

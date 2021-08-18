@@ -1,0 +1,39 @@
+15:51:33.846 [TestNG-tests-3] DEBUG DollarDays - Clicking Sign in Button.
+15:51:46.785 [TestNG-tests-3] ERROR DollarDays - TC_loginDDT test failed.  org.openqa.selenium.NoSuchWindowException: Browsing context has been discarded
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NAGENDRA-YOGA', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 89.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210622155641, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 18000, moz:profile: C:\Users\madhu\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d62ec982-e6f3-4e7b-b02e-f0882172ebe8
+*** Element info: {Using=xpath, value=//*[@id="aspnetForm"]/div[5]/div/div/div/div[2]/div/div[1]/div/div/div[4]/button}
+15:51:47.502 [TestNG-tests-3] ERROR DollarDays - TC_loginDDT test failed.  org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NAGENDRA-YOGA', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 89.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210622155641, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 18000, moz:profile: C:\Users\madhu\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d62ec982-e6f3-4e7b-b02e-f0882172ebe8
+16:12:36.828 [TestNG-tests-1] INFO  DollarDays - Firefox Driver is initialized
+16:12:36.833 [TestNG-tests-1] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+16:12:40.179 [TestNG-tests-1] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+16:12:40.180 [TestNG-tests-1] INFO  DollarDays - Deleting cookies
+16:12:40.217 [TestNG-tests-1] INFO  DollarDays - Maximize browser window 
+16:12:40.306 [TestNG-tests-1] INFO  DollarDays - Logging into Dollardays Website .
+16:12:40.306 [TestNG-tests-1] DEBUG DollarDays - Navigating to Login Page.
+16:12:45.952 [TestNG-tests-1] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+16:12:46.419 [TestNG-tests-1] DEBUG DollarDays - Clicking Sign in Button
+16:12:53.651 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookPageTitle Test is starting. TestCase verifies AddressBookPage Title is displayed correctly.
+16:12:53.731 [TestNG-tests-1] INFO  DollarDays - Verified AddressBookPage Title successfully.
+16:12:53.734 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookPageTitle Test is passed
+16:12:54.039 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookPageHeading Test is starting. TestCase verifies AddressBookPage Header is displayed correctly.
+16:12:54.091 [TestNG-tests-1] INFO  DollarDays - Verified AddressBookPage Heading successfully.
+16:12:54.093 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookPageHeading Test is passed
+16:12:54.364 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddNewShipToAddressLinkDisplay Test is starting. TestCase verifies Add A NEW SHIP-TO ADDRESS Link is displayed.
+16:12:54.422 [TestNG-tests-1] INFO  DollarDays - AddShipToAddress link is displayed
+16:12:54.423 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddNewShipToAddressLinkDisplay Test is passed
+16:12:54.676 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLeftPanelLinksDisplay Test is starting. TestCase verifies AddressBook LeftPanel LinkTexts are displayed correctly.
+16:12:54.764 [TestNG-tests-1] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+16:12:55.280 [TestNG-tests-1] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+16:12:55.280 [TestNG-tests-1] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+16:12:55.282 [TestNG-tests-1] INFO  DollarDays - TC_verifyAddressBookLeftPanelLinksDisplay Test is passed

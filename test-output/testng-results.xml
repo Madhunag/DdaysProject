@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="27" passed="27">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="169565" started-at="2021-08-18T15:47:44Z" finished-at="2021-08-18T15:50:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="169565" started-at="2021-08-18T15:47:44Z" finished-at="2021-08-18T15:50:33Z">
+      <class name="com.DollarDays.testCases.AddressBookPageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="initialize" is-config="true" duration-ms="23097" started-at="2021-08-18T15:47:44Z" finished-at="2021-08-18T15:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="TC_verifyAddressBookPageTitle()[pri:1, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookPageTitle" duration-ms="94" started-at="2021-08-18T15:48:07Z" description="TestCase verifies AddressBookPage Title is displayed correctly." finished-at="2021-08-18T15:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookPageTitle -->
+        <test-method status="PASS" signature="TC_verifyAddressBookPageHeading()[pri:2, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookPageHeading" duration-ms="49" started-at="2021-08-18T15:48:07Z" description="TestCase verifies AddressBookPage Header is displayed correctly." finished-at="2021-08-18T15:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookPageHeading -->
+        <test-method status="PASS" signature="TC_verifyAddNewShipToAddressLinkDisplay()[pri:3, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddNewShipToAddressLinkDisplay" duration-ms="34" started-at="2021-08-18T15:48:07Z" description="TestCase verifies Add A NEW SHIP-TO ADDRESS Link is displayed." finished-at="2021-08-18T15:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddNewShipToAddressLinkDisplay -->
+        <test-method status="PASS" signature="TC_verifyAddressBookLeftPanelLinksDisplay()[pri:4, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookLeftPanelLinksDisplay" duration-ms="671" started-at="2021-08-18T15:48:07Z" description="TestCase verifies AddressBook LeftPanel LinkTexts are displayed correctly." finished-at="2021-08-18T15:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookLeftPanelLinksDisplay -->
+        <test-method status="PASS" signature="TC_verifyAddressBookLinksNavigations(java.lang.String)[pri:5, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookLinksNavigations" duration-ms="1129" started-at="2021-08-18T15:48:08Z" description="TestCase verifies AddressBook LeftPanel Links are navigating correctly." data-provider="getuserlinks" finished-at="2021-08-18T15:48:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Account Overview]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookLinksNavigations -->
+        <test-method status="PASS" signature="TC_verifyAddressBookLinksNavigations(java.lang.String)[pri:5, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookLinksNavigations" duration-ms="3509" started-at="2021-08-18T15:48:09Z" description="TestCase verifies AddressBook LeftPanel Links are navigating correctly." data-provider="getuserlinks" finished-at="2021-08-18T15:48:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[My Profile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookLinksNavigations -->
+        <test-method status="PASS" signature="TC_verifyAddressBookLinksNavigations(java.lang.String)[pri:5, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookLinksNavigations" duration-ms="5367" started-at="2021-08-18T15:48:12Z" description="TestCase verifies AddressBook LeftPanel Links are navigating correctly." data-provider="getuserlinks" finished-at="2021-08-18T15:48:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[My Address Book]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookLinksNavigations -->
+        <test-method status="PASS" signature="TC_verifyAddressBookLinksNavigations(java.lang.String)[pri:5, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookLinksNavigations" duration-ms="1270" started-at="2021-08-18T15:48:18Z" description="TestCase verifies AddressBook LeftPanel Links are navigating correctly." data-provider="getuserlinks" finished-at="2021-08-18T15:48:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[My Wallet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookLinksNavigations -->
+        <test-method status="PASS" signature="TC_verifyAddressBookLinksNavigations(java.lang.String)[pri:5, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookLinksNavigations" duration-ms="4350" started-at="2021-08-18T15:48:19Z" description="TestCase verifies AddressBook LeftPanel Links are navigating correctly." data-provider="getuserlinks" finished-at="2021-08-18T15:48:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tax Exempt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookLinksNavigations -->
+        <test-method status="PASS" signature="TC_verifyAddressBookLinksNavigations(java.lang.String)[pri:5, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookLinksNavigations" duration-ms="6244" started-at="2021-08-18T15:48:23Z" description="TestCase verifies AddressBook LeftPanel Links are navigating correctly." data-provider="getuserlinks" finished-at="2021-08-18T15:48:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[My Favorites]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookLinksNavigations -->
+        <test-method status="PASS" signature="TC_verifyAddressBookLinksNavigations(java.lang.String)[pri:5, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookLinksNavigations" duration-ms="2856" started-at="2021-08-18T15:48:30Z" description="TestCase verifies AddressBook LeftPanel Links are navigating correctly." data-provider="getuserlinks" finished-at="2021-08-18T15:48:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Order History]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookLinksNavigations -->
+        <test-method status="PASS" signature="TC_verifyAddressBookLinksNavigations(java.lang.String)[pri:5, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddressBookLinksNavigations" duration-ms="14728" started-at="2021-08-18T15:48:33Z" description="TestCase verifies AddressBook LeftPanel Links are navigating correctly." data-provider="getuserlinks" finished-at="2021-08-18T15:48:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Log Out]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddressBookLinksNavigations -->
+        <test-method status="PASS" signature="TC_verifyAddNewShipToAddressLink()[pri:6, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAddNewShipToAddressLink" duration-ms="10356" started-at="2021-08-18T15:48:47Z" description="TestCase verifies new address is ADDED correctly in the AddressBook page." finished-at="2021-08-18T15:48:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAddNewShipToAddressLink -->
+        <test-method status="PASS" signature="TC_verifyEditLink()[pri:7, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyEditLink" duration-ms="7543" started-at="2021-08-18T15:48:58Z" description="TestCase verifies saved address is EDITED correctly in the AddressBook page." depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyAddNewShipToAddressLink" finished-at="2021-08-18T15:49:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyEditLink -->
+        <test-method status="PASS" signature="TC_verifySetAsDefaultLink()[pri:8, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifySetAsDefaultLink" duration-ms="6331" started-at="2021-08-18T15:49:05Z" description="TestCase verifies address when setasdefault is saved correctly in the AddressBook page and AccountOverview Page" depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyAddNewShipToAddressLink" finished-at="2021-08-18T15:49:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifySetAsDefaultLink -->
+        <test-method status="PASS" signature="TC_verifyDeleteLinkNoBtn()[pri:9, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyDeleteLinkNoBtn" duration-ms="2460" started-at="2021-08-18T15:49:11Z" description="TestCase verifies saved Address is not deleted in AddressBook Page with Confirmation NO button" depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyAddNewShipToAddressLink" finished-at="2021-08-18T15:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyDeleteLinkNoBtn -->
+        <test-method status="PASS" signature="TC_verifyDeleteLinkYesBtn()[pri:10, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyDeleteLinkYesBtn" duration-ms="62400" started-at="2021-08-18T15:49:14Z" description="TestCase verifies saved Address is deleted in AddressBook Page with Confirmation YES button" depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyAddNewShipToAddressLink" finished-at="2021-08-18T15:50:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyDeleteLinkYesBtn -->
+        <test-method status="PASS" signature="TC_verifyCountryDropdownIsAList()[pri:11, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyCountryDropdownIsAList" duration-ms="1966" started-at="2021-08-18T15:50:16Z" description="TestCase verifies Country is a dropdownlist" finished-at="2021-08-18T15:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyCountryDropdownIsAList -->
+        <test-method status="PASS" signature="TC_verifyCountryDropdownDefaultValue()[pri:12, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyCountryDropdownDefaultValue" duration-ms="1628" started-at="2021-08-18T15:50:18Z" description="TestCase verifies Country&#039;s default value is United States of America." depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyCountryDropdownIsAList" finished-at="2021-08-18T15:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyCountryDropdownDefaultValue -->
+        <test-method status="PASS" signature="TC_verifyStateDropdownOptions()[pri:13, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyStateDropdownOptions" duration-ms="715" started-at="2021-08-18T15:50:20Z" description="TestCase verifies State contains a dropdownlist and displays all the state options correctly." depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyCountryDropdownDefaultValue" finished-at="2021-08-18T15:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyStateDropdownOptions -->
+        <test-method status="PASS" signature="TC_verifyReceivTypeWithShippingDock()[pri:14, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyReceivTypeWithShippingDock" duration-ms="1875" started-at="2021-08-18T15:50:21Z" description="TestCase verifies Company Name displays alert for commercial with shipping docks." depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyCountryDropdownDefaultValue" finished-at="2021-08-18T15:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyReceivTypeWithShippingDock -->
+        <test-method status="PASS" signature="TC_verifyReceivTypeWithoutShippingDock()[pri:15, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyReceivTypeWithoutShippingDock" duration-ms="1897" started-at="2021-08-18T15:50:23Z" description="TestCase verifies Company Name displays alert for  commercial  without shipping docks." depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyCountryDropdownDefaultValue" finished-at="2021-08-18T15:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyReceivTypeWithoutShippingDock -->
+        <test-method status="PASS" signature="TC_verifyMandatoryFieldsAlertMsgDisplay()[pri:16, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyMandatoryFieldsAlertMsgDisplay" duration-ms="3140" started-at="2021-08-18T15:50:24Z" description="TestCase verifies display of alert for mandatory textboxes." depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyCountryDropdownDefaultValue" finished-at="2021-08-18T15:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyMandatoryFieldsAlertMsgDisplay -->
+        <test-method status="PASS" signature="TC_verifyFirstNameTextboxMaxLength()[pri:17, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyFirstNameTextboxMaxLength" duration-ms="323" started-at="2021-08-18T15:50:28Z" description="TestCase verifies FirstName textbox accepts characters until maxlength defined" depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyCountryDropdownDefaultValue" finished-at="2021-08-18T15:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyFirstNameTextboxMaxLength -->
+        <test-method status="PASS" signature="TC_verifyLastNameTextboxMaxlength()[pri:18, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyLastNameTextboxMaxlength" duration-ms="482" started-at="2021-08-18T15:50:28Z" description="TestCase verifies LastName textbox accepts characters until maxlength defined" depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyCountryDropdownDefaultValue" finished-at="2021-08-18T15:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyLastNameTextboxMaxlength -->
+        <test-method status="PASS" signature="TC_verifyStreetAddressTextbox()[pri:19, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyStreetAddressTextbox" duration-ms="1813" started-at="2021-08-18T15:50:28Z" description="TestCase verifies StresstAddress textbox accepts alphanumeric characters." depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyCountryDropdownDefaultValue" finished-at="2021-08-18T15:50:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyStreetAddressTextbox -->
+        <test-method status="PASS" signature="TC_verifyAptStebldgTextbox()[pri:20, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="TC_verifyAptStebldgTextbox" duration-ms="1719" started-at="2021-08-18T15:50:30Z" description="TestCase verifies Apt textbox accepts alphanumeric characters." depends-on-methods="com.DollarDays.testCases.AddressBookPageTest.TC_verifyCountryDropdownDefaultValue" finished-at="2021-08-18T15:50:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAptStebldgTextbox -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.DollarDays.testCases.AddressBookPageTest@43c1b556]" name="teardown" is-config="true" duration-ms="1235" started-at="2021-08-18T15:50:32Z" finished-at="2021-08-18T15:50:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.DollarDays.testCases.AddressBookPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

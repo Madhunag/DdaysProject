@@ -1,0 +1,52 @@
+20:45:01.566 [main] INFO  DollarDays - United States of America is selected from dropdownlist by default
+20:45:02.282 [main] INFO  DollarDays - States List is  displayed as expected
+20:45:04.168 [main] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments with shipping dock:"+companyNameAlert
+20:45:06.070 [main] INFO  DollarDays - Alert is displayed for companyname for receiving type Commercial shipments without shipping dock:Company name/Organization name is required for commercial shipments
+20:45:09.090 [main] INFO  DollarDays - Alert is displayed for empty mandatory fields
+20:45:09.090 [main] INFO  DollarDays - Given name / first name (Required) is displayed for empty firstname
+20:45:09.098 [main] INFO  DollarDays - Surname / last name / family name (Required) is displayed for empty lastname
+20:45:09.098 [main] INFO  DollarDays - Address (Required) is displayed for empty streetaddress
+20:45:09.098 [main] INFO  DollarDays - Country (Required)is displayed for empty country
+20:45:09.098 [main] INFO  DollarDays - City (Required) is displayed for empty city
+20:45:09.098 [main] INFO  DollarDays - This field is required. is displayed for empty State
+20:45:09.098 [main] INFO  DollarDays - Phone Number (Required) is displayed for empty phoneno
+20:45:09.098 [main] INFO  DollarDays - Zip code (Required)is displayed for empty zipcode
+20:45:09.444 [main] INFO  DollarDays - Firstname textbox contains22characters
+20:45:09.444 [main] INFO  DollarDays - Firstname textbox is accepting up to max 26 characters
+20:45:09.791 [main] INFO  DollarDays - Lasttname textbox contains19characters
+20:45:09.791 [main] INFO  DollarDays - Lasttname textbox is accepting up to max 26 characters
+20:45:11.593 [main] INFO  DollarDays - StreetAddress entered is:333b,Andover-dr
+20:45:11.593 [main] INFO  DollarDays - StreetAddress textbox is accepting both alphanumeric and specialchracters
+20:45:13.294 [main] INFO  DollarDays - Apartment entered is:bldg@331
+20:45:13.294 [main] INFO  DollarDays - Apt textbox is accepting both alphanumeric and specialchracters
+20:45:14.438 [main] INFO  DollarDays - WebPage is closed
+20:47:17.167 [TestNG-tests-1] INFO  DollarDays - Firefox Driver is initialized
+20:47:17.177 [TestNG-tests-1] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:47:18.264 [TestNG-tests-1] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+20:47:18.264 [TestNG-tests-1] INFO  DollarDays - Deleting cookies
+20:47:18.517 [TestNG-tests-1] ERROR DollarDays - TC_Login test failed.  java.lang.NullPointerException
+20:48:11.912 [TestNG-tests-3] INFO  DollarDays - Fetching Login data credentials from Excel File.
+20:48:13.291 [TestNG-tests-2] ERROR DollarDays - TC_verifyLoginPageTitle test failed.  java.lang.NullPointerException
+20:48:13.666 [TestNG-tests-3] ERROR DollarDays - TC_loginDDT test failed.  java.lang.NullPointerException
+20:49:06.810 [TestNG-tests-1] INFO  DollarDays - Firefox Driver is initialized
+20:49:06.850 [TestNG-tests-1] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:49:06.899 [TestNG-tests-3] INFO  DollarDays - Firefox Driver is initialized
+20:49:06.899 [TestNG-tests-3] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:49:08.105 [TestNG-tests-4] INFO  DollarDays - Firefox Driver is initialized
+20:49:08.105 [TestNG-tests-4] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:49:19.311 [TestNG-tests-2] INFO  DollarDays - Firefox Driver is initialized
+20:49:19.319 [TestNG-tests-2] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:49:19.907 [TestNG-tests-4] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+20:49:19.907 [TestNG-tests-4] INFO  DollarDays - Deleting cookies
+20:49:19.918 [TestNG-tests-4] INFO  DollarDays - Maximize browser window 
+20:49:20.014 [TestNG-tests-4] INFO  DollarDays - Logging into Dollardays Website .
+20:49:20.015 [TestNG-tests-4] DEBUG DollarDays - Navigating to Login Page.
+20:49:20.128 [TestNG-tests-1] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+20:49:20.128 [TestNG-tests-1] INFO  DollarDays - Deleting cookies
+20:49:20.139 [TestNG-tests-1] INFO  DollarDays - Maximize browser window 
+20:49:20.340 [TestNG-tests-1] INFO  DollarDays - TC_Login Test is starting. This testcase verifies user is able to login from home page with valid credentials.
+20:49:20.340 [TestNG-tests-1] DEBUG DollarDays - Refreshing HomePage /Navigating to HomePage
+20:49:25.666 [TestNG-tests-2] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+20:49:25.666 [TestNG-tests-2] INFO  DollarDays - Deleting cookies
+20:49:25.689 [TestNG-tests-2] INFO  DollarDays - Maximize browser window 
+20:49:25.727 [TestNG-tests-2] INFO  DollarDays - TC_verifyLoginPageTitle Test is starting.  TestCase verifies LoginPage Title is displayed correctly.

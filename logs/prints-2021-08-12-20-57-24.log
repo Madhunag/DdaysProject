@@ -1,0 +1,38 @@
+20:55:26.067 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div/div/div/div[2]/div/div[1]/div/div/div[4]/button' This WebElement is not present/displayed. 
+20:55:26.067 [TestNG-tests-3] INFO  DollarDays - Checking if user has signed in to dollardays WebPage
+20:55:26.120 [TestNG-tests-3] INFO  DollarDays - User is not Signed in
+20:55:26.120 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is passed
+20:55:26.875 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is starting. This Testcase checks for logging in functionality using valid and invalid username/password combinations
+20:55:26.897 [TestNG-tests-3] DEBUG DollarDays - Clicking  SigninIcon and then SignIn option from the DropDown List to navigate to Login Page
+20:56:28.427 [TestNG-tests-3] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.linkText: Sign In' This WebElement is not present/displayed. 
+20:56:28.427 [TestNG-tests-3] DEBUG DollarDays - Clearing and Entering UserEmail and Password .
+20:56:57.797 [TestNG-tests-3] ERROR DollarDays - TC_loginDDT test failed.  org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NAGENDRA-YOGA', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 89.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210622155641, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 24412, moz:profile: C:\Users\madhu\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 18c7c197-68aa-4fc2-988b-dc8a3c0011f3
+*** Element info: {Using=id, value=inputLoginUsername}
+20:56:57.797 [TestNG-tests-3] ERROR DollarDays - TC_loginDDT test failed.  org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NAGENDRA-YOGA', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 89.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210622155641, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 24412, moz:profile: C:\Users\madhu\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 18c7c197-68aa-4fc2-988b-dc8a3c0011f3
+20:57:16.291 [TestNG-tests-4] INFO  DollarDays - Firefox Driver is initialized
+20:57:16.293 [TestNG-tests-4] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:57:17.610 [TestNG-tests-1] INFO  DollarDays - Firefox Driver is initialized
+20:57:17.610 [TestNG-tests-1] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:57:18.055 [TestNG-tests-2] INFO  DollarDays - Firefox Driver is initialized
+20:57:18.055 [TestNG-tests-2] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:57:18.701 [TestNG-tests-3] INFO  DollarDays - Firefox Driver is initialized
+20:57:18.701 [TestNG-tests-3] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+20:57:23.438 [TestNG-tests-1] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+20:57:23.438 [TestNG-tests-1] INFO  DollarDays - Deleting cookies
+20:57:23.458 [TestNG-tests-1] INFO  DollarDays - Maximize browser window 
+20:57:23.735 [TestNG-tests-1] INFO  DollarDays - TC_Login Test is starting. This testcase verifies user is able to login from home page with valid credentials.
+20:57:23.735 [TestNG-tests-1] DEBUG DollarDays - Refreshing HomePage /Navigating to HomePage
+20:57:24.523 [TestNG-tests-4] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+20:57:24.523 [TestNG-tests-4] INFO  DollarDays - Deleting cookies
+20:57:24.545 [TestNG-tests-4] INFO  DollarDays - Maximize browser window 
+20:57:24.625 [TestNG-tests-4] INFO  DollarDays - Logging into Dollardays Website .

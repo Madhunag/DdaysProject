@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.DollarDays.testCases.AddressBookPageTest">
+        <methods>
+          <include name="TC_verifyDeleteLinkYesBtn"/>
+          <include name="TC_verifyFirstNameTextboxMaxLength"/>
+          <include name="TC_verifyStateDropdownOptions"/>
+          <include name="TC_verifyCountryDropdownIsAList"/>
+          <include name="TC_verifyAptStebldgTextbox"/>
+          <include name="TC_verifyReceivTypeWithShippingDock"/>
+          <include name="TC_verifyMandatoryFieldsAlertMsgDisplay"/>
+          <include name="TC_verifyReceivTypeWithoutShippingDock"/>
+          <include name="TC_verifyLastNameTextboxMaxlength"/>
+          <include name="TC_verifySetAsDefaultLink"/>
+          <include name="initialize"/>
+          <include name="TC_verifyAddNewShipToAddressLink"/>
+          <include name="TC_verifyCountryDropdownDefaultValue"/>
+          <include name="TC_verifyAddressBookLinksNavigations" invocation-numbers="5 6 7"/>
+          <include name="TC_verifyStreetAddressTextbox"/>
+          <include name="TC_verifyDeleteLinkNoBtn"/>
+          <include name="teardown"/>
+          <include name="TC_verifyEditLink"/>
+        </methods>
+      </class> <!-- com.DollarDays.testCases.AddressBookPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

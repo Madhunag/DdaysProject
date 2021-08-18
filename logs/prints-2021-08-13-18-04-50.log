@@ -1,0 +1,62 @@
+17:17:05.020 [main] INFO  DollarDays - Deleting cookies
+17:17:05.058 [main] INFO  DollarDays - Maximize browser window 
+17:17:05.137 [main] INFO  DollarDays - Logging into Dollardays Website .
+17:17:05.138 [main] DEBUG DollarDays - Navigating to Login Page.
+17:17:10.797 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+17:17:11.220 [main] DEBUG DollarDays - Clicking Sign in Button
+17:17:27.413 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+17:17:30.883 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+17:17:33.297 [main] INFO  DollarDays - Name is not saved in Account overview page correctly
+17:17:36.356 [main] INFO  DollarDays - WebPage is closed
+17:18:57.222 [main] INFO  DollarDays - Firefox Driver is initialized
+17:18:57.222 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+17:18:59.840 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+17:18:59.840 [main] INFO  DollarDays - Deleting cookies
+17:18:59.867 [main] INFO  DollarDays - Maximize browser window 
+17:18:59.972 [main] INFO  DollarDays - Logging into Dollardays Website .
+17:18:59.972 [main] DEBUG DollarDays - Navigating to Login Page.
+17:19:05.063 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+17:19:05.602 [main] DEBUG DollarDays - Clicking Sign in Button
+17:19:20.929 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+17:20:21.044 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[3]/a' This WebElement is not present/displayed. 
+17:20:22.612 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+17:20:24.369 [main] INFO  DollarDays - Name is not saved in Account overview page correctly
+17:20:26.457 [main] INFO  DollarDays - WebPage is closed
+18:01:08.112 [main] INFO  DollarDays - Firefox Driver is initialized
+18:01:08.117 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+18:01:11.855 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+18:01:11.855 [main] INFO  DollarDays - Deleting cookies
+18:01:11.890 [main] INFO  DollarDays - Maximize browser window 
+18:01:11.975 [main] INFO  DollarDays - Logging into Dollardays Website .
+18:01:11.977 [main] DEBUG DollarDays - Navigating to Login Page.
+18:01:16.901 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+18:01:17.399 [main] DEBUG DollarDays - Clicking Sign in Button
+18:01:33.750 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+18:01:37.423 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+18:01:39.049 [main] INFO  DollarDays - Name is not saved in Account overview page correctly
+18:01:42.271 [main] INFO  DollarDays - WebPage is closed
+18:02:32.428 [main] INFO  DollarDays - Firefox Driver is initialized
+18:02:32.434 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+18:02:35.700 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+18:02:35.700 [main] INFO  DollarDays - Deleting cookies
+18:02:35.719 [main] INFO  DollarDays - Maximize browser window 
+18:02:35.823 [main] INFO  DollarDays - Logging into Dollardays Website .
+18:02:35.825 [main] DEBUG DollarDays - Navigating to Login Page.
+18:02:41.714 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+18:02:42.204 [main] DEBUG DollarDays - Clicking Sign in Button
+18:02:58.086 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+18:03:00.806 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+18:03:04.098 [main] INFO  DollarDays - Name is not saved in Account overview page correctly
+18:03:06.960 [main] INFO  DollarDays - WebPage is closed
+18:04:15.435 [main] INFO  DollarDays - Firefox Driver is initialized
+18:04:15.441 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+18:04:18.305 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+18:04:18.305 [main] INFO  DollarDays - Deleting cookies
+18:04:18.359 [main] INFO  DollarDays - Maximize browser window 
+18:04:18.441 [main] INFO  DollarDays - Logging into Dollardays Website .
+18:04:18.442 [main] DEBUG DollarDays - Navigating to Login Page.
+18:04:24.825 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+18:04:25.298 [main] DEBUG DollarDays - Clicking Sign in Button
+18:04:41.046 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+18:04:46.014 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+18:04:47.783 [main] INFO  DollarDays - Name is not saved in Account overview page correctly

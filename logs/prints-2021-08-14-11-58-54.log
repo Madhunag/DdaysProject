@@ -1,0 +1,57 @@
+10:27:08.063 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Sushmitha, sen7hills]
+10:27:08.147 [main] DEBUG DollarDays - Name fetched from excel is :[Sushmitha, sen7hills]
+10:27:08.201 [main] DEBUG DollarDays - Address in Account overview page is: [110, 25501 Shaker Blvd, Beachwood, OH 44122]
+10:27:08.263 [main] DEBUG DollarDays - Name fetched from excel is :[110, 25501 Shaker Blvd, Beachwood, OH 44122]
+10:27:08.263 [main] INFO  DollarDays - Name and Address is not saved in Account overview page correctly
+10:27:10.933 [main] INFO  DollarDays - WebPage is closed
+11:05:15.548 [main] INFO  DollarDays - Firefox Driver is initialized
+11:05:15.553 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+11:05:20.793 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+11:05:20.793 [main] INFO  DollarDays - Deleting cookies
+11:05:20.835 [main] INFO  DollarDays - Maximize browser window 
+11:05:20.919 [main] INFO  DollarDays - Logging into Dollardays Website .
+11:05:20.919 [main] DEBUG DollarDays - Navigating to Login Page.
+11:05:26.513 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+11:05:27.046 [main] DEBUG DollarDays - Clicking Sign in Button
+11:05:58.193 [main] INFO  DollarDays - Firefox Driver is initialized
+11:05:58.198 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+11:06:01.061 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+11:06:01.061 [main] INFO  DollarDays - Deleting cookies
+11:06:01.077 [main] INFO  DollarDays - Maximize browser window 
+11:06:01.184 [main] INFO  DollarDays - Logging into Dollardays Website .
+11:06:01.187 [main] DEBUG DollarDays - Navigating to Login Page.
+11:06:06.246 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+11:06:06.798 [main] DEBUG DollarDays - Clicking Sign in Button
+11:06:22.444 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+11:06:25.117 [main] INFO  DollarDays - Address is set as default in AddressBook Page
+11:06:26.259 [main] DEBUG DollarDays - Name fetched from AccountOverviewPage is :[Sushmitha, sen7hills]
+11:06:26.329 [main] DEBUG DollarDays - Name fetched from excel is :[Sushmitha, sen7hills]
+11:06:26.447 [main] DEBUG DollarDays - Address in Account overview page is: [110, 25501 Shaker Blvd, Beachwood, OH 44122]
+11:06:26.488 [main] DEBUG DollarDays - Name fetched from excel is :[110, 25501 Shaker Blvd, Beachwood, OH 44122]
+11:06:26.489 [main] INFO  DollarDays - Name and Address is not saved in Account overview page correctly
+11:06:29.113 [main] INFO  DollarDays - WebPage is closed
+11:34:16.657 [main] INFO  DollarDays - Firefox Driver is initialized
+11:34:16.662 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+11:34:21.200 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+11:34:21.200 [main] INFO  DollarDays - Deleting cookies
+11:34:21.226 [main] INFO  DollarDays - Maximize browser window 
+11:34:21.294 [main] INFO  DollarDays - Logging into Dollardays Website .
+11:34:21.295 [main] DEBUG DollarDays - Navigating to Login Page.
+11:34:26.370 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+11:34:26.876 [main] DEBUG DollarDays - Clicking Sign in Button
+11:34:43.482 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+11:35:07.490 [main] WARN  DollarDays - NoSuchElementException  [[FirefoxDriver: firefox on WINDOWS (d5cde74b-7cc8-41d5-8922-d1d22e4bf97a)] -> xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div/ul/li[3]/a] This WebElement is not present/displayed. 
+11:35:27.961 [main] INFO  DollarDays - Firefox Driver is initialized
+11:35:27.967 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+11:35:32.373 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+11:35:32.373 [main] INFO  DollarDays - Deleting cookies
+11:35:32.422 [main] INFO  DollarDays - Maximize browser window 
+11:35:32.507 [main] INFO  DollarDays - Logging into Dollardays Website .
+11:35:32.507 [main] DEBUG DollarDays - Navigating to Login Page.
+11:35:37.355 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+11:35:37.840 [main] DEBUG DollarDays - Clicking Sign in Button
+11:35:54.151 [main] INFO  DollarDays - New Address is added succesfully on clicking NewShipToAddressLink
+11:35:57.929 [main] INFO  DollarDays - WebPage is closed
+11:36:10.644 [main] WARN  DollarDays - NoSuchElementException  Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[5]/div[1]/section/div/div[3]/div/div[2]/div/section/div[1]/div[2]/div/div[1]/i' This WebElement is not present/displayed. 
+11:36:13.274 [main] INFO  DollarDays - WebPage is closed
+11:58:53.993 [main] INFO  DollarDays - Firefox Driver is initialized

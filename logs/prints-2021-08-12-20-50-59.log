@@ -1,0 +1,41 @@
+20:50:14.197 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookPageHeading Test is passed
+20:50:18.454 [TestNG-tests-3] DEBUG DollarDays - Clearing and Entering UserEmail and Password .
+20:50:20.168 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddNewShipToAddressLinkDisplay Test is starting. TestCase verifies Add A NEW SHIP-TO ADDRESS Link is displayed.
+20:50:21.149 [TestNG-tests-4] INFO  DollarDays - AddShipToAddress link is displayed
+20:50:21.158 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddNewShipToAddressLinkDisplay Test is passed
+20:50:22.155 [TestNG-tests-3] DEBUG DollarDays - Clicking Sign in Button.
+20:50:22.306 [TestNG-tests-3] ERROR DollarDays - TC_loginDDT test failed.  java.lang.AssertionError: Could not sign in to DollarDays with valid user team6testing@gmail.com and valid password password123. TestCase Failed. expected [true] but found [false]
+20:50:22.347 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLeftPanelLinksDisplay Test is starting. TestCase verifies AddressBook LeftPanel LinkTexts are displayed correctly.
+20:50:22.508 [TestNG-tests-4] DEBUG DollarDays - The actual AddressBookPageLeftPanelaccount links are:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+20:50:22.538 [TestNG-tests-4] DEBUG DollarDays - The expected list is:
+[Account Overview, My Profile, My Address Book, My Wallet, Tax Exempt, My Favorites, Order History, Log Out]
+20:50:22.538 [TestNG-tests-4] INFO  DollarDays - AddressBookLeftPaneLinkTexts are getting displayed as expected
+20:50:22.538 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLeftPanelLinksDisplay Test is passed
+20:50:22.810 [TestNG-tests-3] INFO  DollarDays - TC_loginDDT Test is starting. This Testcase checks for logging in functionality using valid and invalid username/password combinations
+20:50:22.810 [TestNG-tests-3] DEBUG DollarDays - Clearing and Entering UserEmail and Password .
+20:50:23.152 [TestNG-tests-3] DEBUG DollarDays - Clicking Sign in Button.
+20:50:23.253 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+20:50:25.121 [TestNG-tests-4] INFO  DollarDays - Account Overview link url verified successfully.
+20:50:25.121 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:50:25.846 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+20:50:27.804 [TestNG-tests-2] INFO  DollarDays - Entering valid credentials and clicking Signin Button.
+20:50:28.803 [TestNG-tests-2] INFO  DollarDays - Checking if user has signed in to dollardays WebPage
+20:50:30.488 [TestNG-tests-4] INFO  DollarDays - My Profile link url verified successfully.
+20:50:30.488 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:50:31.317 [TestNG-tests-2] INFO  DollarDays - User is not Signed in
+20:50:31.327 [TestNG-tests-2] ERROR DollarDays - TC_logintoDD test failed.  java.lang.AssertionError: Could not Login to Dollardays with valid credentials.  Testcase failed expected [true] but found [false]
+20:50:35.493 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+20:50:41.625 [TestNG-tests-4] INFO  DollarDays - My Address Book link url verified successfully.
+20:50:41.625 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:50:42.169 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+20:50:42.975 [TestNG-tests-2] INFO  DollarDays - WebPage is closed
+20:50:43.983 [TestNG-tests-4] INFO  DollarDays - My Wallet link url verified successfully.
+20:50:43.983 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:50:44.395 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+20:50:47.733 [TestNG-tests-4] INFO  DollarDays - Tax Exempt link url verified successfully.
+20:50:47.733 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:50:48.018 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.
+20:50:56.642 [TestNG-tests-4] INFO  DollarDays - My Favorites link url verified successfully.
+20:50:56.642 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is passed
+20:50:56.996 [TestNG-tests-4] INFO  DollarDays - TC_verifyAddressBookLinksNavigations Test is starting. TestCase verifies AddressBook LeftPanel Links are navigating correctly.

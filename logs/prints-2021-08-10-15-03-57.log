@@ -1,0 +1,11 @@
+15:03:25.236 [main] INFO  DollarDays - Firefox Driver is initialized
+15:03:25.266 [main] INFO  DollarDays - Opening the firefox browser and Navigating to Home page of Dollardays
+15:03:29.712 [main] INFO  DollarDays - Navigated to Homepage of  Dollardays 
+15:03:29.712 [main] INFO  DollarDays - Deleting cookies
+15:03:29.735 [main] INFO  DollarDays - Maximize browser window 
+15:03:29.864 [main] INFO  DollarDays - Logging into Dollardays Website .
+15:03:29.864 [main] DEBUG DollarDays - Navigating to Login Page.
+15:03:35.826 [main] DEBUG DollarDays - Clearing and Entering UserEmail and Password
+15:03:36.604 [main] DEBUG DollarDays - Clicking Sign in Button
+15:03:48.049 [main] INFO  DollarDays - Logging into Dollardays Website .
+15:03:48.056 [main] DEBUG DollarDays - Navigating to Login Page.
